@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous" />
+
+    <title>Login Page</title>
+
+</head>
+
+
+<body>
+    <style>
+        html,body {
+            margin: auto;
+            width: 400px;
+        }
+
+        body {
+            background-image: radial-gradient(#FFF5EE, #708090);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+        }
+  
+    </style>
+
+    <br>
+    <img src=http://cdn.onlinewebfonts.com/svg/img_311846.png class="center">
+    <br>
+    <form method="POST">
+        <h3 align="center">Kullanıcı Girişi</h3>
+        <div class="container">
+            <i class="fa fa-user icon"></i>
+            <label for="username">Kullanıcı Adı</label>
+            <input type="text" class="form-control" id="username" name="username" placeholder="Kullanıcı adınızı giriniz"  required/>
+        </div>
+        <br>
+        <div class="container">
+            <i class="fa fa-key icon"></i>
+            <label for="password">Şifre</label>
+            <input type="password" class="form-control" id="password" name="password" placeholder="Şifrenizi giriniz"  required />
+        </div>
+        <br />
+        <div class="container">
+
+
+            <button type="submit" class="btn btn-dark">Giriş</button> <br>
+            
+        </div>
+          <div class="container">
+            <h5 align="center">{{ .Status}}</h5>
+            </div>
+
+    </form>
+
+</body>
+
+</html>
