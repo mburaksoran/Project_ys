@@ -1,0 +1,1352 @@
+orderID,sentBy,orderTime,itemVal,closedBy,restName,paidBy,from,item,itemCount,table,closedAt
+1,P1,2021-09-21 15:22:07.460000+00:00,29.67,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d14,2021-09-21 15:59:31.292000+00:00
+2,P1,2021-08-13 15:52:51.374000+00:00,17.82,testCafeAdmin,testCafe,card,admin,Limonata,1,d10,2021-08-13 16:32:58.367000+00:00
+3,P1,2021-08-24 14:00:40.188999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d6,2021-08-24 14:34:27.049000+00:00
+4,P2,2021-08-11 14:21:51.420000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-08-11 14:58:30.937000+00:00
+5,P3,2021-09-07 14:47:29.545000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d4,2021-09-07 15:19:11.565999+00:00
+6,P6,2021-08-20 15:18:08.628999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-08-20 15:52:37.885999+00:00
+7,P5,2021-08-03 09:50:10.811000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-08-03 10:14:15.085999+00:00
+8,P6,2021-08-10 14:26:58.990999+00:00,27,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s3,2021-08-10 15:03:03.743999+00:00
+9,P6,2021-08-26 13:58:42.210000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,s7,2021-08-26 15:11:47.168999+00:00
+10,P3,2021-09-12 16:16:04.851000+00:00,27.37,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d16,2021-09-12 16:47:48.349999+00:00
+11,P1,2021-07-24 19:26:39.509000+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s6,2021-07-24 19:48:38.819999+00:00
+12,P3,2021-09-08 17:54:17.115999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b4,2021-09-08 18:23:22.414999+00:00
+13,P5,2021-07-14 19:31:40.451999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d14,2021-07-14 20:09:02.173000+00:00
+14,P2,2021-08-10 17:09:32.956000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d19,2021-08-10 17:50:24.490000+00:00
+15,P6,2021-08-07 19:39:15.621000+00:00,8.415,testCafeAdmin,testCafe,cash,admin,SU,2,d10,2021-08-07 19:49:57.997999+00:00
+16,P5,2021-07-12 16:37:22.329999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s9,2021-07-12 16:48:09.898999+00:00
+17,P7,2021-09-17 16:52:45.324000+00:00,4.945,testCafeAdmin,testCafe,cash,admin,SU,1,s2,2021-09-17 16:56:33.236000+00:00
+18,P1,2021-08-15 13:30:04.446000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d7,2021-08-15 14:19:59.595999+00:00
+19,P5,2021-08-17 08:01:32.869999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s5,2021-08-17 08:19:04.285000+00:00
+20,P5,2021-07-13 10:36:58.075999+00:00,10.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d12,2021-07-13 11:06:48.496000+00:00
+21,P1,2021-09-21 16:03:27.221999+00:00,22.011,testCafeAdmin,testCafe,cash,admin,Limonata,1,d5,2021-09-21 16:33:10.793000+00:00
+22,P3,2021-09-11 18:18:17.084000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d5,2021-09-11 19:08:07.279999+00:00
+23,P6,2021-08-24 16:47:02.865000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-08-24 17:07:14.937999+00:00
+24,P1,2021-08-08 18:47:23.394999+00:00,93.15,testCafeAdmin,testCafe,card,admin,Oralet,3,b4,2021-08-08 19:24:26.789999+00:00
+25,P3,2021-09-02 16:18:23.450000+00:00,14.835,testCafeAdmin,testCafe,cash,admin,Çay,3,d8,2021-09-02 17:23:08.443000+00:00
+26,P1,2021-07-27 11:56:09.193000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,s3,2021-07-27 12:16:22.155999+00:00
+27,P2,2021-08-15 18:58:16.989000+00:00,4.2,testCafeAdmin,testCafe,cash,admin,Çay,1,d16,2021-08-15 19:48:27.186000+00:00
+28,P7,2021-09-20 18:55:40.214999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d6,2021-09-20 19:13:19.549000+00:00
+29,P5,2021-07-18 17:32:59.328000+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d15,2021-07-18 20:53:04.907999+00:00
+30,P1,2021-07-18 15:50:23.885999+00:00,20.9,testCafeAdmin,testCafe,cash,admin,Kivi,1,d12,2021-07-18 17:43:48.605000+00:00
+31,P5,2021-08-06 14:47:44.016000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-08-06 15:13:21.954999+00:00
+32,P1,2021-07-21 19:03:00.188999+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d5,2021-07-21 19:57:29.483999+00:00
+33,P7,2021-09-30 16:39:27.372999+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s1,2021-09-30 17:35:28.099000+00:00
+34,P1,2021-08-18 15:14:52.440999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s4,2021-08-18 15:34:52.190000+00:00
+35,P7,2021-09-25 18:09:19.450999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-09-25 18:18:39.839000+00:00
+36,P2,2021-07-31 13:33:29.990999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s5,2021-07-31 13:42:34.831000+00:00
+37,P1,2021-07-18 10:18:04.892999+00:00,16.2,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,s1,2021-07-18 10:51:44.500000+00:00
+38,P7,2021-09-17 16:13:13.796000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,b8,2021-09-17 16:29:32.152000+00:00
+39,P7,2021-09-30 16:28:24.863000+00:00,20.01,testCafeAdmin,testCafe,cash,admin,SU,4,d6,2021-09-30 17:32:15.844000+00:00
+40,P2,2021-08-11 19:31:09.894000+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d14,2021-08-11 20:23:50.042000+00:00
+41,P6,2021-08-01 15:20:10.098999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s3,2021-08-01 15:40:05.634000+00:00
+42,P6,2021-08-16 16:12:20.244999+00:00,15,testCafeAdmin,testCafe,cash,admin,Americano,1,d7,2021-08-16 16:56:28.503999+00:00
+43,P1,2021-09-07 18:40:36.963999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,b8,2021-09-07 19:03:17.586999+00:00
+44,P3,2021-09-11 20:03:12.723999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d1,2021-09-11 20:20:19.127000+00:00
+45,P3,2021-09-11 14:04:17.997999+00:00,15.525,testCafeAdmin,testCafe,card,admin,Çay,3,s6,2021-09-11 14:20:27.533999+00:00
+46,P1,2021-07-13 19:00:36.904999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d12,2021-07-13 20:19:39.115999+00:00
+47,P5,2021-08-01 17:10:05.825999+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d6,2021-08-01 18:11:14.632999+00:00
+48,P1,2021-08-05 15:32:45.414999+00:00,11,testCafeAdmin,testCafe,card,admin,SU,2,d2,2021-08-05 18:13:40.617000+00:00
+49,P1,2021-10-01 13:46:14.121999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d3,2021-10-01 14:47:02.877000+00:00
+50,P1,2021-09-04 17:51:20.483000+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,d1,2021-09-04 18:24:27.055000+00:00
+51,P1,2021-08-22 18:31:13.196000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d14,2021-08-22 19:43:53.141999+00:00
+52,P6,2021-08-09 13:32:43.993999+00:00,32,testCafeAdmin,testCafe,card,admin,Cappucino,2,d11,2021-08-09 14:04:00.805000+00:00
+53,P1,2021-08-18 18:15:57.529000+00:00,25.875,testCafeAdmin,testCafe,card,admin,Oralet,1,s6,2021-08-18 18:27:40.428999+00:00
+54,P1,2021-08-07 17:47:26.130000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d5,2021-08-07 18:39:26.276999+00:00
+55,P5,2021-08-07 07:47:51.150000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s10,2021-08-07 07:51:17.332999+00:00
+56,P1,2021-10-08 16:59:28.861000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d10,2021-10-08 17:49:13.125000+00:00
+57,P7,2021-09-19 16:12:16.046000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-09-19 17:35:01.187000+00:00
+58,P1,2021-08-06 15:59:20.122999+00:00,33,testCafeAdmin,testCafe,card,admin,Oralet,1,d5,2021-08-06 16:27:19.484999+00:00
+59,P5,2021-07-08 19:07:30.135999+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d10,2021-07-08 20:12:38.694000+00:00
+60,P1,2021-08-05 18:08:38.415999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d6,2021-08-05 18:37:42.934999+00:00
+61,P1,2021-08-21 11:21:34.546999+00:00,16.5,testCafeAdmin,testCafe,cash,admin,Çay,3,d11,2021-08-21 12:33:43.230000+00:00
+62,P1,2021-08-06 16:28:41.490000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-08-06 17:43:22.663000+00:00
+63,P1,2021-08-13 18:00:05.591000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d6,2021-08-13 18:19:24.894999+00:00
+64,P1,2021-07-31 17:24:40.127000+00:00,5.75,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-31 18:11:19.099999+00:00
+65,P1,2021-08-08 18:50:53.088999+00:00,18.63,testCafeAdmin,testCafe,card,admin,Limonata,1,b4,2021-08-08 19:24:26.789999+00:00
+66,P1,2021-08-19 12:26:18.693000+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-08-19 12:53:42.946000+00:00
+67,P6,2021-07-19 12:06:54.516000+00:00,27.797,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-07-19 13:01:30.937999+00:00
+68,P6,2021-08-27 14:20:24.655999+00:00,32.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-08-27 14:56:37.815999+00:00
+69,P1,2021-07-25 19:24:44.460999+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,d1,2021-07-25 20:13:43.237999+00:00
+70,P3,2021-09-01 14:09:29.930999+00:00,19,testCafeAdmin,testCafe,cash,admin,Kivi,1,s6,2021-09-01 14:33:59.121999+00:00
+71,P6,2021-07-16 15:17:35.993000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s7,2021-07-16 16:19:45.142999+00:00
+72,P1,2021-09-04 12:02:08.270999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d1,2021-09-04 12:20:39.921999+00:00
+73,P6,2021-07-31 13:51:44.183000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-07-31 14:49:58.477999+00:00
+74,P2,2021-08-15 17:38:50.286999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-08-15 18:02:36.970000+00:00
+75,P5,2021-07-03 13:18:32.684000+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d10,2021-07-03 14:19:52.194999+00:00
+76,P1,2021-10-03 19:13:23.256000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-10-03 19:45:10.112000+00:00
+77,P5,2021-08-04 13:37:00.315000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s7,2021-08-04 15:10:17.321000+00:00
+78,P1,2021-08-05 16:40:36.121000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d10,2021-08-05 18:24:49.173000+00:00
+79,P5,2021-07-02 18:03:27.526000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b8,2021-07-02 18:53:27.736000+00:00
+80,P6,2021-07-29 12:41:52.640000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d3,2021-07-29 13:06:57.525000+00:00
+81,P7,2021-09-14 19:26:19.683000+00:00,4.75,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-09-14 19:53:34.712000+00:00
+82,P6,2021-08-27 14:22:22.950000+00:00,13.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s1,2021-08-27 14:56:37.815999+00:00
+83,P6,2021-08-21 18:09:39.167999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d7,2021-08-21 18:57:48.463999+00:00
+84,P1,2021-07-18 15:51:03.663000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s2,2021-07-18 16:22:12.161999+00:00
+85,P3,2021-09-12 11:34:45.877000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d13,2021-09-12 12:15:29.963999+00:00
+86,P1,2021-08-20 19:13:43.052999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d17,2021-08-20 19:18:57.782000+00:00
+87,P7,2021-10-06 16:30:01.805000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d1,2021-10-06 16:39:44.704000+00:00
+88,P1,2021-09-25 18:31:45.720000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b2,2021-09-25 18:48:53.320000+00:00
+89,P6,2021-08-23 16:38:10.033999+00:00,5.75,testCafeAdmin,testCafe,cash,admin,SU,1,d10,2021-08-23 17:09:55.003999+00:00
+90,P1,2021-08-29 16:09:27.176000+00:00,20.7,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,d2,2021-08-29 16:41:00.769999+00:00
+91,P2,2021-07-05 10:01:43.770999+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,d4,2021-07-05 10:17:38.073999+00:00
+92,P1,2021-07-23 15:33:21.187000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d18,2021-07-23 16:00:07.829999+00:00
+93,P1,2021-07-28 16:36:15.532999+00:00,13.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s3,2021-07-28 17:01:22.796999+00:00
+94,P7,2021-10-03 11:04:20.635999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b8,2021-10-03 11:49:44.180000+00:00
+95,P1,2021-09-10 15:45:47.927000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d10,2021-09-10 16:22:16.490000+00:00
+96,P1,2021-08-22 15:17:26.331000+00:00,22,testCafeAdmin,testCafe,card,admin,Limonata,1,d3,2021-08-22 16:04:46.323999+00:00
+97,P5,2021-07-01 19:12:58.364000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-07-01 20:32:22.457999+00:00
+98,P7,2021-09-30 14:54:54.112999+00:00,23.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s4,2021-09-30 16:07:04.155000+00:00
+99,P7,2021-10-02 14:06:18.539000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,s7,2021-10-02 14:27:28.845000+00:00
+100,P7,2021-09-20 15:38:40.276000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d14,2021-09-20 16:03:09.251000+00:00
+101,P1,2021-07-31 17:14:11.769000+00:00,39.33,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,2,d11,2021-07-31 18:48:57.236999+00:00
+102,P1,2021-08-08 19:07:12.802999+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d10,2021-08-08 19:37:16.094000+00:00
+103,P6,2021-08-16 18:26:53.019000+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,d17,2021-08-16 19:05:13.634000+00:00
+104,P5,2021-08-04 13:29:13.164999+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-04 13:53:07.862999+00:00
+105,P6,2021-08-16 19:13:05.325000+00:00,25.088,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-08-16 19:36:22.424999+00:00
+106,P6,2021-08-31 19:40:49.167000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,s7,2021-08-31 19:47:11.615999+00:00
+107,P1,2021-09-08 16:02:30.818000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,b8,2021-09-08 16:49:04.687000+00:00
+108,P5,2021-08-08 14:23:33.361000+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b1,2021-08-08 14:40:07.950999+00:00
+109,P3,2021-09-06 19:08:50.131999+00:00,31.05,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s5,2021-09-06 19:32:34.789000+00:00
+110,P3,2021-09-09 19:25:07.953999+00:00,20.7,testCafeAdmin,testCafe,card,admin,Limonata,1,d14,2021-09-09 19:54:13.101000+00:00
+111,P5,2021-07-04 13:08:36.331000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d8,2021-07-04 13:29:28.292000+00:00
+112,P2,2021-07-19 10:47:45.608000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,d1,2021-07-19 13:02:26.733999+00:00
+113,P2,2021-07-12 10:11:50.585000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d13,2021-07-12 14:26:30.308000+00:00
+114,P1,2021-08-03 19:32:57.315000+00:00,36,testCafeAdmin,testCafe,cash,admin,Limonata,2,s2,2021-08-03 19:59:01.447000+00:00
+115,P5,2021-08-13 10:57:27.667999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b5,2021-08-13 11:02:51.663000+00:00
+116,P1,2021-08-05 16:07:06.381999+00:00,13.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d8,2021-08-05 17:01:00.589999+00:00
+117,P1,2021-08-21 09:55:00.559000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s4,2021-08-21 10:10:46.230999+00:00
+118,P1,2021-10-03 17:52:33.290000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d10,2021-10-03 20:02:26.711000+00:00
+119,P1,2021-09-04 16:58:25.308000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b6,2021-09-04 18:42:47.414000+00:00
+120,P6,2021-07-23 15:42:08.191999+00:00,26.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d6,2021-07-23 16:26:45.631000+00:00
+121,P5,2021-06-25 17:01:22.900000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b8,2021-06-25 18:18:18.217000+00:00
+122,P6,2021-07-29 13:05:12.207999+00:00,106.26,testCafeAdmin,testCafe,card,admin,CheeseCake,3,s2,2021-07-29 13:28:28.730999+00:00
+123,P1,2021-10-02 17:19:07.068000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d5,2021-10-02 17:33:38.276000+00:00
+124,P1,2021-09-26 14:40:51.118000+00:00,11.9,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d4,2021-09-26 15:07:23.310000+00:00
+125,P1,2021-08-12 15:45:21.482000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d5,2021-08-12 17:29:16.974999+00:00
+126,P1,2021-08-08 12:59:14.401999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b4,2021-08-08 13:22:21.263999+00:00
+127,P1,2021-09-07 14:04:48.111999+00:00,60,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,a0,2021-09-07 14:03:38.605000+00:00
+128,P1,2021-07-25 17:18:49.250999+00:00,34.5,testCafeAdmin,testCafe,card,admin,Oralet,1,d2,2021-07-25 17:52:22.584000+00:00
+129,P6,2021-09-03 14:56:49.394000+00:00,31.05,testCafeAdmin,testCafe,cash,admin,Oralet,1,d5,2021-09-03 16:42:39.003000+00:00
+130,P1,2021-08-22 17:07:07.045000+00:00,10.17,testCafeAdmin,testCafe,cash,admin,SU,2,d8,2021-08-22 17:43:10.461999+00:00
+131,P1,2021-08-12 15:47:02.223000+00:00,4.4,testCafeAdmin,testCafe,cash,admin,SU,1,s7,2021-08-12 16:08:50.055999+00:00
+132,P5,2021-08-02 19:18:00.552000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s2,2021-08-02 19:41:19.200999+00:00
+133,P6,2021-08-26 18:17:14.552999+00:00,32.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d2,2021-08-26 19:01:46.650000+00:00
+134,P6,2021-08-16 18:30:46.749000+00:00,4.368,testCafeAdmin,testCafe,cash,admin,SU,1,d16,2021-08-16 19:06:06.818000+00:00
+135,P6,2021-08-27 18:30:39.323999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d7,2021-08-27 19:18:33.276999+00:00
+136,P1,2021-08-22 14:51:49.085999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-08-22 16:05:31.068000+00:00
+137,P1,2021-07-21 18:22:33.328000+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b5,2021-07-21 19:22:59.147000+00:00
+138,P6,2021-09-05 15:51:10.663000+00:00,34.5,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d6,2021-09-05 18:27:47.743000+00:00
+139,P1,2021-07-24 16:13:18.844000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,s4,2021-07-24 16:42:14.829999+00:00
+140,P2,2021-08-10 17:43:33.029999+00:00,12,testCafeAdmin,testCafe,card,admin,SU,2,d7,2021-08-10 18:56:55.984999+00:00
+141,P1,2021-08-04 15:42:35.914999+00:00,15,testCafeAdmin,testCafe,card,admin,Americano,1,d4,2021-08-04 16:19:18.407999+00:00
+142,P7,2021-09-18 15:50:04.750000+00:00,36,testCafeAdmin,testCafe,cash,admin,Limonata,2,s6,2021-09-18 16:10:05.330000+00:00
+143,P1,2021-09-11 16:14:13.677000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b8,2021-09-11 16:41:03.644000+00:00
+144,P3,2021-09-03 16:13:51.499000+00:00,28.05,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-09-03 16:40:32.315999+00:00
+145,P1,2021-08-31 17:23:36.302000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-08-31 18:08:07.877000+00:00
+146,P1,2021-07-23 17:17:45.535000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-07-23 17:47:20.694000+00:00
+147,P1,2021-08-28 16:31:52.084000+00:00,5.95,testCafeAdmin,testCafe,cash,admin,SODA,1,b8,2021-08-28 17:08:34.710999+00:00
+148,P6,2021-09-05 14:59:57.789999+00:00,5.75,testCafeAdmin,testCafe,cash,admin,Çay,1,b6,2021-09-05 16:32:38.171999+00:00
+149,P3,2021-09-03 18:11:04.470999+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d17,2021-09-03 18:27:56.191999+00:00
+150,P2,2021-08-15 18:56:41.668999+00:00,25.088,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-08-15 19:29:48.697999+00:00
+151,P1,2021-08-29 17:57:21.084000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d15,2021-08-29 18:36:46.726000+00:00
+152,P6,2021-08-23 15:31:27.815000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,b4,2021-08-23 15:55:47.622999+00:00
+153,P5,2021-07-08 19:18:54.651999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d15,2021-07-08 20:06:46.664999+00:00
+154,P7,2021-10-12 17:36:55.470000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-10-12 18:05:07.564000+00:00
+155,P5,2021-07-04 13:14:04.871000+00:00,25,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d11,2021-07-04 13:36:02.661999+00:00
+156,P7,2021-09-27 15:38:43.756000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-09-27 16:08:05.679000+00:00
+157,P6,2021-07-24 17:01:03.634999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d17,2021-07-24 17:31:20.936000+00:00
+158,P5,2021-07-10 17:02:25.864000+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,b1,2021-07-10 17:39:36.573999+00:00
+159,P3,2021-09-06 14:59:54.395999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-09-06 14:58:54.249000+00:00
+160,P3,2021-09-03 18:05:30.186000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d11,2021-09-03 19:01:49.177000+00:00
+161,P3,2021-09-01 14:20:03.923000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d5,2021-09-01 14:35:30.595999+00:00
+162,P7,2021-09-16 15:05:25.129000+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d1,2021-09-16 15:36:57.457000+00:00
+163,P5,2021-07-25 18:52:14.602999+00:00,11.5,testCafeAdmin,testCafe,cash,admin,Çay,2,d2,2021-07-25 19:59:52.746999+00:00
+164,P1,2021-08-06 16:28:19.891999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d16,2021-08-06 17:43:22.663000+00:00
+165,P5,2021-07-26 19:21:21.737999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d5,2021-07-26 20:43:15.240999+00:00
+166,P3,2021-09-07 14:44:43.628999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-09-07 15:04:31.220999+00:00
+167,P6,2021-07-24 16:59:03.240000+00:00,12.54,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d8,2021-07-24 18:00:36.023000+00:00
+168,P1,2021-07-31 15:50:09.670000+00:00,66,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,2,s3,2021-07-31 16:16:54.190000+00:00
+169,P7,2021-10-04 19:40:53.010999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d7,2021-10-04 20:03:04.607000+00:00
+170,P5,2021-07-18 16:32:51.125999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d3,2021-07-18 17:03:16.006000+00:00
+171,P7,2021-09-14 17:26:11.862000+00:00,16.1,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-09-14 18:30:17.906000+00:00
+172,P5,2021-08-03 12:17:55.759000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s7,2021-08-03 12:30:09.674999+00:00
+173,P6,2021-08-24 18:54:25.161000+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,b1,2021-08-24 19:17:03.561000+00:00
+174,P3,2021-09-08 19:27:38.128999+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d14,2021-09-08 19:35:45.361999+00:00
+175,P1,2021-08-05 18:12:07.299999+00:00,56,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d8,2021-08-05 19:02:07.471999+00:00
+176,P1,2021-08-01 17:18:44.322999+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,d12,2021-08-01 17:54:12.553999+00:00
+177,P3,2021-09-03 17:32:20.789999+00:00,18.4,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d5,2021-09-03 17:58:22.121999+00:00
+178,P6,2021-08-09 13:19:56.969000+00:00,5.5,testCafeAdmin,testCafe,cash,admin,Çay,1,s7,2021-08-09 13:55:52.979000+00:00
+179,P5,2021-07-08 17:41:21.829999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d8,2021-07-08 18:31:44.604000+00:00
+180,P5,2021-06-28 12:26:45.872999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-06-28 14:15:39.052999+00:00
+181,P2,2021-07-19 10:36:21.385999+00:00,15,testCafeAdmin,testCafe,card,admin,Filtre Kahve,1,a0,2021-07-19 10:40:14.391000+00:00
+182,P6,2021-08-21 15:41:41.049999+00:00,0,testCafeAdmin,testCafe,cash,admin,Çay,1,s8,2021-08-21 20:40:01.255000+00:00
+183,P1,2021-07-27 19:00:26.710000+00:00,17.25,testCafeAdmin,testCafe,cash,admin,Americano,1,d14,2021-07-27 20:17:00.430999+00:00
+184,P2,2021-07-11 10:17:50.604000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d12,2021-07-11 10:52:32.520999+00:00
+185,P5,2021-08-04 18:53:16.739000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-04 19:31:38.118999+00:00
+186,P5,2021-08-08 13:45:03.282000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b6,2021-08-08 13:49:46.444999+00:00
+187,P6,2021-08-24 19:06:42.865999+00:00,32.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b8,2021-08-24 19:26:26.329999+00:00
+188,P7,2021-09-29 15:39:39.649000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d6,2021-09-29 16:18:51.737000+00:00
+189,P7,2021-10-04 16:34:44.318000+00:00,15,testCafeAdmin,testCafe,cash,admin,Çay,3,d5,2021-10-04 17:26:54.093000+00:00
+190,P1,2021-08-13 19:11:47.963000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s10,2021-08-13 20:12:44.980000+00:00
+191,P1,2021-07-30 16:32:26.946000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d11,2021-07-30 16:57:45.486999+00:00
+192,P5,2021-07-12 16:16:25.915999+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,b1,2021-07-12 16:43:40.798000+00:00
+193,P7,2021-09-20 17:19:30.934000+00:00,23,testCafeAdmin,testCafe,cash,admin,Limonata,1,d1,2021-09-20 19:11:28.140000+00:00
+194,P1,2021-09-21 14:17:32.556999+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,s4,2021-09-21 14:38:05.883000+00:00
+195,P6,2021-08-23 15:32:15.305000+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,s1,2021-08-23 16:12:04.944000+00:00
+196,P5,2021-07-17 16:50:13.578000+00:00,20,testCafeAdmin,testCafe,card,admin,Çay,4,d11,2021-07-17 18:20:00.042000+00:00
+197,P6,2021-07-26 17:38:46.667999+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d10,2021-07-26 17:59:49.648000+00:00
+198,P6,2021-08-31 17:52:14.285000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d8,2021-08-31 18:20:32.114000+00:00
+199,P7,2021-10-10 11:59:48.198999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,b1,2021-10-10 12:28:54.514000+00:00
+200,P1,2021-08-29 16:08:44.795000+00:00,12.42,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-08-29 16:41:00.769999+00:00
+201,P1,2021-08-01 16:59:36.234999+00:00,34.5,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d10,2021-08-01 17:53:57.566999+00:00
+202,P1,2021-07-23 17:31:40.466000+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-07-23 18:27:46.484999+00:00
+203,P6,2021-08-27 19:36:59.479000+00:00,10.35,testCafeAdmin,testCafe,cash,admin,SU,2,s6,2021-08-27 19:55:09.486000+00:00
+204,P1,2021-07-22 14:20:07.631000+00:00,15,testCafeAdmin,testCafe,cash,admin,Çay,3,d2,2021-07-22 14:29:28.319000+00:00
+205,P7,2021-09-15 18:37:48.440000+00:00,20,testCafeAdmin,testCafe,card,admin,Limonata,1,b1,2021-09-15 19:44:20.241000+00:00
+206,P7,2021-09-29 13:46:44.464000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d6,2021-09-29 14:11:43.660000+00:00
+207,P1,2021-07-17 18:40:03.834000+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b4,2021-07-17 19:48:44.848999+00:00
+208,P5,2021-07-14 14:46:42.979000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s1,2021-07-14 15:15:32.457999+00:00
+209,P2,2021-08-15 14:49:50.456000+00:00,4.48,testCafeAdmin,testCafe,cash,admin,Çay,1,b2,2021-08-15 16:55:30.026999+00:00
+210,P1,2021-08-28 16:38:20.295000+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d16,2021-08-28 17:20:23.757999+00:00
+211,P7,2021-09-18 19:38:59.119999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d6,2021-09-18 19:53:07.140000+00:00
+212,P1,2021-08-01 16:32:40.121000+00:00,34.5,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d5,2021-08-01 16:49:45.674000+00:00
+213,P6,2021-07-19 14:41:37.311000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d7,2021-07-19 15:18:41.526999+00:00
+214,P2,2021-08-15 19:14:32.423000+00:00,56,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d4,2021-08-15 19:33:43.594000+00:00
+215,P6,2021-08-16 13:46:19.062000+00:00,23.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d12,2021-08-16 14:16:09.931999+00:00
+216,P5,2021-07-04 18:30:01.963000+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,s2,2021-07-04 19:24:45.836999+00:00
+217,P6,2021-08-24 17:22:19.690000+00:00,12,testCafeAdmin,testCafe,cash,admin, ESPRESSO,1,d15,2021-08-24 18:42:29.571000+00:00
+218,P3,2021-09-13 18:46:25.479000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-09-13 19:34:18.676000+00:00
+219,P5,2021-08-14 18:45:15.726000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d16,2021-08-14 19:08:11.697999+00:00
+220,P7,2021-09-15 16:18:26.407000+00:00,3,testCafeAdmin,testCafe,card,admin,Çay,1,d8,2021-09-15 16:40:02.322000+00:00
+221,P2,2021-08-10 18:17:29.765000+00:00,36.63,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d19,2021-08-10 19:05:04.767999+00:00
+222,P6,2021-08-26 11:12:00.822999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s3,2021-08-26 11:43:12.845000+00:00
+223,P3,2021-09-09 19:09:43.286000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b4,2021-09-09 19:39:51.127000+00:00
+224,P1,2021-09-12 12:37:50.398999+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d5,2021-09-12 12:52:31.391000+00:00
+225,P1,2021-07-27 13:33:19.854000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d6,2021-07-27 13:50:30.871000+00:00
+226,P1,2021-08-20 15:13:26.184999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b7,2021-08-20 16:19:24.092999+00:00
+227,P5,2021-07-28 15:24:50.875999+00:00,27.6,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,s3,2021-07-28 15:47:13.234999+00:00
+228,P1,2021-07-13 15:21:24.470999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d1,2021-07-13 15:45:27.598999+00:00
+229,P5,2021-07-04 14:43:30.878999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-07-04 15:02:09.266999+00:00
+230,P7,2021-09-27 14:41:24.698999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-09-27 15:09:21.708000+00:00
+231,P1,2021-08-01 17:25:49.028000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d2,2021-08-01 18:14:23.859999+00:00
+232,P6,2021-08-27 18:38:57.874000+00:00,34.5,testCafeAdmin,testCafe,card,admin,Oralet,1,b1,2021-08-27 19:20:57.476000+00:00
+233,P6,2021-07-30 19:44:05.622999+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d10,2021-07-30 20:36:49.691999+00:00
+234,P5,2021-07-11 20:21:42.826999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d2,2021-07-11 20:37:32.596999+00:00
+235,P7,2021-09-19 13:01:25.578000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d11,2021-09-19 14:50:55.932000+00:00
+236,P5,2021-07-28 15:50:11.795000+00:00,31.74,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,b4,2021-07-28 16:25:52.680000+00:00
+237,P6,2021-07-19 16:22:12.832000+00:00,8.5,testCafeAdmin,testCafe,card,admin,Çay,2,d5,2021-07-19 17:17:06.441999+00:00
+238,P5,2021-07-16 13:46:48.434999+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,d3,2021-07-16 14:24:41.388999+00:00
+239,P1,2021-07-15 17:20:36.056999+00:00,4.25,testCafeAdmin,testCafe,card,admin,Çay,1,d14,2021-07-15 18:20:44.690999+00:00
+240,P1,2021-08-22 18:51:28.595000+00:00,5.75,testCafeAdmin,testCafe,card,admin,Çay,1,d5,2021-08-22 20:08:05.858999+00:00
+241,P5,2021-07-03 17:53:05.539000+00:00,18,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,d4,2021-07-03 18:29:48.670000+00:00
+242,P1,2021-07-21 15:26:47.247999+00:00,33,testCafeAdmin,testCafe,card,admin,Islak kek,1,s2,2021-07-21 16:01:07.858000+00:00
+243,P7,2021-09-14 16:15:24.444000+00:00,18.4,testCafeAdmin,testCafe,cash,admin,Cappucino,1,b8,2021-09-14 16:53:48.190000+00:00
+244,P5,2021-07-30 17:06:34.273000+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,s5,2021-07-30 17:26:23.486999+00:00
+245,P1,2021-07-31 16:06:52.115999+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d19,2021-07-31 16:32:43.957999+00:00
+246,P3,2021-09-03 17:24:15.637000+00:00,28.98,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d11,2021-09-03 17:37:28.328999+00:00
+247,P7,2021-10-02 13:56:19.292000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b2,2021-10-02 14:40:00.232000+00:00
+248,P6,2021-08-16 18:22:55.405999+00:00,15.4,testCafeAdmin,testCafe,cash,admin,SODA,2,d8,2021-08-16 18:56:51.331000+00:00
+249,P5,2021-08-08 14:50:40.061000+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d4,2021-08-08 15:43:00.585000+00:00
+250,P6,2021-07-19 15:01:36.299999+00:00,5.95,testCafeAdmin,testCafe,card,admin,SODA,1,d1,2021-07-19 15:31:36.487999+00:00
+251,P3,2021-09-12 16:51:18.315000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d16,2021-09-12 18:11:28.891000+00:00
+252,P1,2021-08-01 12:32:54.802999+00:00,30.59,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s5,2021-08-01 12:49:27.378999+00:00
+253,P6,2021-08-21 17:55:56.627000+00:00,20,testCafeAdmin,testCafe,card,admin,AROMALI Kivi,1,d1,2021-08-21 19:01:31.480999+00:00
+254,P3,2021-09-12 13:20:10.526999+00:00,60,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d11,2021-09-12 14:14:39.566999+00:00
+255,P5,2021-07-11 17:22:50.091000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d7,2021-07-11 17:36:06.775000+00:00
+256,P1,2021-07-25 16:33:20.000999+00:00,33,testCafeAdmin,testCafe,card,admin,Islak kek,1,b8,2021-07-25 18:11:36.183000+00:00
+257,P5,2021-07-06 14:22:36.048000+00:00,22.5,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-07-06 14:52:21.657999+00:00
+258,P3,2021-09-03 18:37:56.931999+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,b4,2021-09-03 18:53:45.638000+00:00
+259,P3,2021-09-02 16:04:54.007999+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,d16,2021-09-02 16:52:14.733999+00:00
+260,P5,2021-07-11 14:29:26.111000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,d4,2021-07-11 15:22:10.927000+00:00
+261,P7,2021-09-17 19:38:26.998000+00:00,32.6876,testCafeAdmin,testCafe,card,admin,Cappucino,2,d8,2021-09-17 20:14:26.506000+00:00
+262,P6,2021-08-23 18:54:03.019999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d17,2021-08-23 19:15:44.145999+00:00
+263,P6,2021-08-16 14:10:23.987999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d3,2021-08-16 14:42:02.355999+00:00
+264,P1,2021-08-03 18:53:18.890000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d7,2021-08-03 19:54:27.759000+00:00
+265,P1,2021-07-28 17:15:24.561000+00:00,6.05,testCafeAdmin,testCafe,cash,admin,SU,1,d5,2021-07-28 17:22:29.900000+00:00
+266,P6,2021-08-17 17:34:10.318000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-08-17 18:09:41.421999+00:00
+267,P5,2021-08-02 18:51:29.996000+00:00,36,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,2,d5,2021-08-02 20:25:21.857000+00:00
+268,P7,2021-09-18 13:13:34.272000+00:00,8.05,testCafeAdmin,testCafe,card,admin,SODA,1,d2,2021-09-18 14:02:16.930000+00:00
+269,P1,2021-08-13 16:15:04.401999+00:00,17.82,testCafeAdmin,testCafe,card,admin,Limonata,1,s4,2021-08-13 16:34:24.624000+00:00
+270,P7,2021-09-30 17:30:15.956000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-09-30 17:51:38.707000+00:00
+271,P6,2021-08-17 17:10:38.987999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d14,2021-08-17 18:29:45.690000+00:00
+272,P7,2021-10-03 15:19:53.785000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,s1,2021-10-03 15:59:24.282000+00:00
+273,P7,2021-09-20 16:29:15.440000+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d2,2021-09-20 17:47:15.876000+00:00
+274,P1,2021-07-31 16:28:11.522000+00:00,34.5,testCafeAdmin,testCafe,card,admin,Islak kek,1,d1,2021-07-31 17:24:50.553999+00:00
+275,P3,2021-09-02 08:54:36.226999+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s7,2021-09-02 09:28:12.088999+00:00
+276,P5,2021-08-18 12:48:11.842000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s5,2021-08-18 12:47:26.588999+00:00
+277,P5,2021-08-13 10:12:07.609999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b4,2021-08-13 11:12:11.608999+00:00
+278,P7,2021-09-20 14:23:57.180000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d1,2021-09-20 14:44:18.472000+00:00
+279,P5,2021-07-05 16:58:01.480999+00:00,22.95,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s10,2021-07-05 20:53:52.607000+00:00
+280,P5,2021-07-16 17:57:17.334000+00:00,23.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s7,2021-07-16 18:17:50.186000+00:00
+281,P1,2021-10-02 15:18:11.741000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d7,2021-10-02 15:38:25.327000+00:00
+282,P1,2021-08-13 19:03:29.276000+00:00,28.05,testCafeAdmin,testCafe,cash,admin,Islak kek,1,b8,2021-08-13 19:52:46.618999+00:00
+283,P5,2021-07-10 17:57:27.605999+00:00,4.25,testCafeAdmin,testCafe,card,admin,Çay,1,d11,2021-07-10 18:21:51.585000+00:00
+284,P1,2021-08-08 17:50:20.282000+00:00,24.32192,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-08-08 18:41:07.911999+00:00
+285,P6,2021-08-29 14:14:36.075999+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s4,2021-08-29 14:58:45.509999+00:00
+286,P7,2021-09-29 16:47:00.988000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d15,2021-09-29 17:53:51.109000+00:00
+287,P7,2021-10-04 17:39:45.588000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,d7,2021-10-04 18:07:09.276000+00:00
+288,P1,2021-09-01 15:16:34.323999+00:00,60,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d4,2021-09-01 15:27:37.375999+00:00
+289,P6,2021-07-24 16:58:55.255000+00:00,31.35,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d8,2021-07-24 18:00:36.023000+00:00
+290,P6,2021-08-16 17:45:59.237999+00:00,19.8,testCafeAdmin,testCafe,cash,admin,Limonata,1,d10,2021-08-16 18:07:13.536000+00:00
+291,P5,2021-07-03 15:07:41.354000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d4,2021-07-03 15:23:16.687999+00:00
+292,P1,2021-07-21 18:17:34.226999+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,d11,2021-07-21 18:36:22.243999+00:00
+293,P7,2021-10-10 13:21:27.247000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,b1,2021-10-10 14:08:05.301000+00:00
+294,P1,2021-07-13 15:03:40.536000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d2,2021-07-13 16:28:01.332000+00:00
+295,P2,2021-07-16 12:05:24.108000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s7,2021-07-16 12:24:46.538000+00:00
+296,P1,2021-09-10 14:22:12.911999+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s3,2021-09-10 14:44:12.413000+00:00
+297,P1,2021-07-13 17:07:15.025000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b4,2021-07-13 17:59:53.299999+00:00
+298,P1,2021-09-11 16:17:41.555999+00:00,30,testCafeAdmin,testCafe,card,admin,Filtre Kahve,2,d19,2021-09-11 19:02:32.206000+00:00
+299,P7,2021-09-30 17:17:41.158999+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b6,2021-09-30 17:35:41.055000+00:00
+300,P1,2021-08-07 17:51:01.154999+00:00,33.3,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d5,2021-08-07 18:39:26.276999+00:00
+301,P1,2021-08-06 17:56:27.717999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-08-06 18:12:25.140000+00:00
+302,P6,2021-08-28 16:49:31.244999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s7,2021-08-28 17:16:39.029999+00:00
+303,P7,2021-10-10 12:44:54.777000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b6,2021-10-10 13:06:19.455000+00:00
+304,P1,2021-08-05 16:36:05.161999+00:00,66,testCafeAdmin,testCafe,cash,admin,Oralet,2,s7,2021-08-05 17:14:46.951999+00:00
+305,P5,2021-08-08 16:06:51.296000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d7,2021-08-08 16:55:04.309999+00:00
+306,P1,2021-08-12 15:44:06.026000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d2,2021-08-12 16:05:41.374000+00:00
+307,P5,2021-07-12 15:14:08.948999+00:00,11.9,testCafeAdmin,testCafe,cash,admin,SODA,2,d2,2021-07-12 15:44:34.292999+00:00
+308,P1,2021-08-27 15:52:23.161000+00:00,12.42,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s2,2021-08-27 16:05:32.187000+00:00
+309,P6,2021-07-24 13:53:46.039999+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s7,2021-07-24 14:28:10.766999+00:00
+310,P1,2021-09-10 17:35:51.611000+00:00,34.5,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d5,2021-09-10 18:07:45.230000+00:00
+311,P6,2021-07-24 16:39:13.405999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d5,2021-07-24 18:57:51.148000+00:00
+312,P3,2021-09-09 19:02:04.150000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d11,2021-09-09 20:03:05.729000+00:00
+313,P1,2021-07-17 12:50:39.811000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s2,2021-07-17 12:58:19.407999+00:00
+314,P2,2021-08-15 18:48:16.533999+00:00,84,testCafeAdmin,testCafe,card,admin,CheeseCake,3,d4,2021-08-15 19:33:43.594000+00:00
+315,P1,2021-07-17 12:24:39.250999+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,b3,2021-07-17 12:46:55.131000+00:00
+316,P7,2021-09-26 17:30:07.118999+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d2,2021-09-26 19:36:32.037000+00:00
+317,P7,2021-10-10 12:29:32.473000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d1,2021-10-10 12:49:28.761000+00:00
+318,P3,2021-09-12 16:25:25.540999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-09-12 17:34:11.895999+00:00
+319,P6,2021-08-09 14:30:23.500000+00:00,0,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s3,2021-08-09 15:00:42.102999+00:00
+320,P7,2021-09-18 13:07:27.109999+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,b2,2021-09-18 13:45:57.040000+00:00
+321,P1,2021-07-25 17:04:27.520999+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,s2,2021-07-25 17:22:56.581000+00:00
+322,P1,2021-08-08 19:11:58.256999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,a0,2021-08-08 19:50:33.769999+00:00
+323,P1,2021-07-31 16:48:13.496999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b8,2021-07-31 17:53:55.911000+00:00
+324,P3,2021-09-12 14:31:29.354000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d8,2021-09-12 15:13:34.900000+00:00
+325,P1,2021-08-22 19:02:17.013999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d2,2021-08-22 20:03:27.357000+00:00
+326,P5,2021-07-16 18:53:09.382999+00:00,56,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d19,2021-07-16 19:38:53.545000+00:00
+327,P1,2021-08-13 14:19:01.907999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-08-13 14:25:56.555999+00:00
+328,P1,2021-08-18 15:08:35.486000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s2,2021-08-18 15:30:02.078999+00:00
+329,P1,2021-08-03 17:35:12.941999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-08-03 18:22:07.766999+00:00
+330,P5,2021-08-13 09:09:32.625000+00:00,20.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s4,2021-08-13 10:10:23.216000+00:00
+331,P2,2021-08-15 16:18:39.227999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d19,2021-08-15 17:01:10.313999+00:00
+332,P7,2021-09-19 17:05:04.513000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,b1,2021-09-19 18:03:46.899000+00:00
+333,P1,2021-10-01 15:21:12.834000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d6,2021-10-01 15:54:57.363000+00:00
+334,P7,2021-10-07 11:11:35.983999+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d10,2021-10-07 11:41:31.652000+00:00
+335,P1,2021-07-22 15:23:12.058000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d7,2021-07-22 16:32:12.443000+00:00
+336,P1,2021-09-19 13:20:31.834000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-09-19 14:01:11.346000+00:00
+337,P2,2021-07-15 12:05:15.417999+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d10,2021-07-15 12:38:12.765000+00:00
+338,P2,2021-08-08 10:19:59.604000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,s3,2021-08-08 10:43:14.788000+00:00
+339,P1,2021-10-03 11:56:54.871999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d11,2021-10-03 12:25:20.935000+00:00
+340,P5,2021-06-25 16:13:41.138000+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,d8,2021-06-25 19:08:37.654000+00:00
+341,P2,2021-08-15 14:35:08.589999+00:00,15,testCafeAdmin,testCafe,card,admin,Çay,3,d6,2021-08-15 14:55:22.622999+00:00
+342,P3,2021-09-07 17:24:16.726999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d4,2021-09-07 17:42:22.556999+00:00
+343,P6,2021-08-16 16:53:41.723999+00:00,25.088,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-08-16 18:25:06.111999+00:00
+344,P6,2021-08-02 17:16:41.930999+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,s4,2021-08-02 17:31:46.167999+00:00
+345,P5,2021-08-16 09:55:03.461999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s1,2021-08-16 10:32:52.628999+00:00
+346,P6,2021-08-26 17:53:29.503999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s7,2021-08-26 18:07:59.173000+00:00
+347,P5,2021-07-04 15:47:46.141999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d4,2021-07-04 16:42:25.092000+00:00
+348,P5,2021-07-30 18:56:24.595999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d14,2021-07-30 19:12:41.229000+00:00
+349,P6,2021-08-07 18:18:50.053999+00:00,23.76,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,s5,2021-08-07 18:57:07.191999+00:00
+350,P1,2021-07-28 19:44:21.220000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d10,2021-07-28 19:58:26.049000+00:00
+351,P1,2021-08-31 19:17:27.434999+00:00,92,testCafeAdmin,testCafe,card,admin,Limonata,4,d2,2021-08-31 19:45:50.384000+00:00
+352,P1,2021-09-21 14:31:00.802000+00:00,33,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d4,2021-09-21 15:43:00.816000+00:00
+353,P2,2021-08-15 15:10:58.914000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b6,2021-08-15 15:37:52.035000+00:00
+354,P1,2021-07-29 18:29:37.674999+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-07-29 19:29:16.654999+00:00
+355,P7,2021-09-23 16:33:41.261000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b1,2021-09-23 17:57:19.848000+00:00
+356,P5,2021-08-15 09:00:35.341000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,d10,2021-08-15 09:21:24.153000+00:00
+357,P5,2021-07-12 13:47:27.431999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s2,2021-07-12 14:20:09.312000+00:00
+358,P3,2021-09-07 15:18:34.059000+00:00,11.5,testCafeAdmin,testCafe,card,admin,Çay,2,d16,2021-09-07 17:15:40.857000+00:00
+359,P1,2021-07-21 10:37:39.773000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-07-21 11:31:26.066999+00:00
+360,P7,2021-09-29 13:06:41.793000+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d12,2021-09-29 13:28:26.878000+00:00
+361,P7,2021-10-02 15:24:43.140000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d16,2021-10-02 16:07:36.736000+00:00
+362,P1,2021-08-19 10:15:13.568000+00:00,15,testCafeAdmin,testCafe,cash,admin,IHLAMUR,1,s4,2021-08-19 11:20:53.022000+00:00
+363,P2,2021-07-12 12:42:52.520999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s2,2021-07-12 12:59:31.851999+00:00
+364,P6,2021-08-14 19:11:07.775000+00:00,26.88,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d15,2021-08-14 19:56:56.747999+00:00
+365,P7,2021-09-17 16:12:33.159000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d17,2021-09-17 16:25:18.103000+00:00
+366,P5,2021-08-16 07:17:45.687999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d18,2021-08-16 07:30:42.194000+00:00
+367,P1,2021-08-05 12:36:04.161000+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-05 13:03:08.082999+00:00
+368,P2,2021-08-12 11:30:24.842999+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,d2,2021-08-12 12:03:49.046000+00:00
+369,P6,2021-08-30 15:04:26.017999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d6,2021-08-30 15:42:51.834000+00:00
+370,P5,2021-08-03 13:13:07.160000+00:00,5.95,testCafeAdmin,testCafe,card,admin,SODA,1,s6,2021-08-03 13:51:35.664000+00:00
+371,P5,2021-08-04 18:18:33.369999+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d4,2021-08-04 18:47:00.844000+00:00
+372,P1,2021-07-22 18:36:31.349999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d4,2021-07-22 19:29:23.345000+00:00
+373,P6,2021-08-16 13:52:39.236000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s7,2021-08-16 14:17:25.651000+00:00
+374,P1,2021-08-28 19:05:15.479000+00:00,15.0075,testCafeAdmin,testCafe,cash,admin,SU,3,d1,2021-08-28 19:18:59.983000+00:00
+375,P6,2021-08-09 19:24:05.296999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d3,2021-08-09 20:08:22.953000+00:00
+376,P6,2021-08-16 17:42:36.996999+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,d6,2021-08-16 19:38:15.931999+00:00
+377,P6,2021-08-23 16:48:18.869999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-08-23 16:56:55.822000+00:00
+378,P6,2021-08-16 18:55:16.032000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d5,2021-08-16 19:15:55.190999+00:00
+379,P6,2021-07-26 16:31:29.992000+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,s3,2021-07-26 16:44:15.029000+00:00
+380,P6,2021-08-22 13:44:24.302000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-08-22 14:07:04.173000+00:00
+381,P5,2021-08-23 10:30:14.941999+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b3,2021-08-23 10:49:16.977999+00:00
+382,P1,2021-08-01 13:47:04.823999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b6,2021-08-01 13:46:24.309000+00:00
+383,P1,2021-08-31 15:23:31.664000+00:00,32.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d2,2021-08-31 18:08:07.877000+00:00
+384,P3,2021-09-13 14:29:17.769000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-09-13 14:53:25.170000+00:00
+385,P5,2021-06-26 12:25:48.069000+00:00,25,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b1,2021-06-26 14:20:57.664000+00:00
+386,P6,2021-08-16 15:42:25.193000+00:00,26.4,testCafeAdmin,testCafe,cash,admin,Americano,2,b4,2021-08-16 16:28:34.456000+00:00
+387,P5,2021-07-13 08:13:02.038000+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,d1,2021-07-13 08:52:56.783999+00:00
+388,P2,2021-08-05 10:42:38.505000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s1,2021-08-05 11:11:25.855000+00:00
+389,P2,2021-08-15 17:19:18.039999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-08-15 18:11:34.348000+00:00
+390,P6,2021-08-21 15:57:39.233000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d5,2021-08-21 16:21:40.221999+00:00
+391,P1,2021-08-18 19:41:18.829999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-08-18 19:58:42.489000+00:00
+392,P7,2021-10-09 15:36:21.381000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d4,2021-10-09 16:02:25.262000+00:00
+393,P5,2021-07-14 19:03:17.792999+00:00,15.12,testCafeAdmin,testCafe,card,admin,Cappucino,1,d5,2021-07-14 19:42:38.654000+00:00
+394,P1,2021-10-03 19:00:52.663000+00:00,32,testCafeAdmin,testCafe,cash,admin,Cappucino,2,s2,2021-10-03 19:22:00.607000+00:00
+395,P1,2021-07-27 17:58:22.194999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d9,2021-07-27 19:05:41.138999+00:00
+396,P3,2021-09-09 15:39:05.240000+00:00,34.5,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d11,2021-09-09 16:21:51.404000+00:00
+397,P1,2021-07-27 19:49:11.134999+00:00,28.75,testCafeAdmin,testCafe,cash,admin,SU,5,d14,2021-07-27 20:17:00.430999+00:00
+398,P6,2021-09-05 15:57:50.934000+00:00,10.35,testCafeAdmin,testCafe,cash,admin,Çay,2,d2,2021-09-05 17:37:10.740999+00:00
+399,P3,2021-09-06 18:56:32.510999+00:00,23.598,testCafeAdmin,testCafe,cash,admin,Limonata,1,s2,2021-09-06 19:55:35.826999+00:00
+400,P5,2021-07-30 19:14:46.328000+00:00,22,testCafeAdmin,testCafe,cash,admin,Limonata,1,d2,2021-07-30 19:40:01.713999+00:00
+401,P1,2021-07-24 15:14:13.744999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s6,2021-07-24 15:33:56.338999+00:00
+402,P7,2021-09-30 14:19:44.009000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d16,2021-09-30 14:51:03.596000+00:00
+403,P1,2021-07-29 18:27:12.073999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s7,2021-07-29 18:37:31.105999+00:00
+404,P1,2021-07-28 16:33:54.674999+00:00,37.03,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s2,2021-07-28 17:03:48.678999+00:00
+405,P5,2021-07-08 19:23:24.842000+00:00,14,testCafeAdmin,testCafe,cash,admin,SODA,2,d6,2021-07-08 19:57:37.657000+00:00
+406,P7,2021-09-25 14:41:40.963000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d19,2021-09-25 14:50:37.198000+00:00
+407,P5,2021-07-28 17:57:52.890000+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d8,2021-07-28 18:16:14.966000+00:00
+408,P1,2021-08-04 17:00:43.246000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s7,2021-08-04 17:27:53.197999+00:00
+409,P5,2021-07-04 13:12:49.713000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d8,2021-07-04 13:29:28.292000+00:00
+410,P6,2021-07-25 14:51:06.993000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s3,2021-07-25 15:31:48.463999+00:00
+411,P1,2021-08-28 15:12:36.601000+00:00,9.89,testCafeAdmin,testCafe,cash,admin,SU,2,d5,2021-08-28 15:27:42.115999+00:00
+412,P5,2021-07-21 13:23:42.661999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-07-21 13:52:40.316999+00:00
+413,P6,2021-07-19 18:53:57.519000+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,b2,2021-07-19 20:00:25.568000+00:00
+414,P1,2021-07-13 12:08:34.645999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,s1,2021-07-13 12:47:43.753000+00:00
+415,P1,2021-10-01 16:25:29.622999+00:00,20,testCafeAdmin,testCafe,cash,admin,Çay,4,d7,2021-10-01 17:39:31.672000+00:00
+416,P1,2021-08-08 17:24:31.308000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d1,2021-08-08 17:46:52.086999+00:00
+417,P7,2021-09-26 17:05:15.710999+00:00,14.007,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d17,2021-09-26 18:43:12.375000+00:00
+418,P5,2021-07-26 19:06:39.188999+00:00,21.78,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,b6,2021-07-26 19:54:41.092999+00:00
+419,P1,2021-08-05 19:56:41.109999+00:00,10.692,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d8,2021-08-05 20:26:45.894000+00:00
+420,P1,2021-08-12 15:21:00.217000+00:00,24.3628,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-08-12 15:57:18.983000+00:00
+421,P5,2021-07-04 19:20:44.632999+00:00,25,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d6,2021-07-04 20:36:14.417000+00:00
+422,P1,2021-08-04 14:32:41.377000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s6,2021-08-04 14:55:54.687000+00:00
+423,P1,2021-09-25 18:31:36.036999+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b2,2021-09-25 18:48:53.320000+00:00
+424,P5,2021-07-10 18:00:30.630000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d10,2021-07-10 18:39:30.859999+00:00
+425,P7,2021-09-20 16:29:03.486000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d10,2021-09-20 17:00:33.055000+00:00
+426,P3,2021-09-09 18:49:08.296000+00:00,31.05,testCafeAdmin,testCafe,cash,admin,Oralet,1,d10,2021-09-09 19:24:42.822000+00:00
+427,P2,2021-08-11 19:47:14.779999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-08-11 20:08:44.694000+00:00
+428,P3,2021-09-03 16:03:17.319999+00:00,31.05,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d7,2021-09-03 16:51:30.832000+00:00
+429,P6,2021-08-16 18:29:04.460999+00:00,28.672,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,2,d14,2021-08-16 19:58:18.016000+00:00
+430,P5,2021-07-05 16:06:36.079999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b2,2021-07-05 16:30:21.335000+00:00
+431,P3,2021-09-06 19:08:33.448999+00:00,43.47,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,3,b4,2021-09-06 19:40:34.369999+00:00
+432,P7,2021-10-06 18:28:38.989000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,b1,2021-10-06 19:53:16.003000+00:00
+433,P6,2021-07-17 19:14:14.278000+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,d4,2021-07-17 20:02:23.276000+00:00
+434,P3,2021-09-09 19:57:36.457000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d18,2021-09-09 20:17:31.355000+00:00
+435,P1,2021-08-31 16:06:42.951999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s1,2021-08-31 16:39:31.533999+00:00
+436,P1,2021-08-22 12:39:57.782999+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,s5,2021-08-22 13:12:49.239000+00:00
+437,P5,2021-08-16 11:38:30.104000+00:00,22,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,s7,2021-08-16 12:16:05.029000+00:00
+438,P6,2021-07-30 20:08:43.088000+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d5,2021-07-30 20:25:27.917000+00:00
+439,P5,2021-07-17 17:37:27.789000+00:00,36,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,3,d17,2021-07-17 20:21:48.770999+00:00
+440,P1,2021-09-15 19:56:25.561000+00:00,5.0025,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-09-15 20:18:00.301000+00:00
+441,P1,2021-07-31 15:56:11.792999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d4,2021-07-31 16:29:49.032000+00:00
+442,P1,2021-08-13 18:10:26.292999+00:00,27,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d2,2021-08-13 19:45:23.872999+00:00
+443,P7,2021-09-17 19:41:08.477999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b8,2021-09-17 20:00:45.986000+00:00
+444,P1,2021-08-27 15:41:53.517999+00:00,84.042,testCafeAdmin,testCafe,card,admin,CheeseCake,3,s6,2021-08-27 16:04:57.720000+00:00
+445,P6,2021-08-01 18:54:25.542000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d16,2021-08-01 20:02:09.273000+00:00
+446,P2,2021-08-05 09:37:55.696000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s7,2021-08-05 09:48:01.404000+00:00
+447,P7,2021-09-28 18:39:18.138999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d18,2021-09-28 19:13:37.425000+00:00
+448,P6,2021-07-24 13:00:14.085999+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s4,2021-07-24 14:24:50.076999+00:00
+449,P5,2021-08-02 15:47:04.464999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d5,2021-08-02 17:15:23.368000+00:00
+450,P7,2021-09-16 16:56:17.104000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-09-16 18:41:10.241000+00:00
+451,P1,2021-07-31 15:47:02.209000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d10,2021-07-31 16:27:11.003999+00:00
+452,P1,2021-07-30 16:55:58.313999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s10,2021-07-30 20:39:47.446000+00:00
+453,P6,2021-07-19 16:05:53.427999+00:00,22,testCafeAdmin,testCafe,cash,admin,Limonata,1,d2,2021-07-19 17:40:29.454999+00:00
+454,P3,2021-09-06 19:22:04.013000+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,b1,2021-09-06 19:49:32.262000+00:00
+455,P3,2021-09-09 17:45:29.799000+00:00,14.49,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b8,2021-09-09 18:21:01.576999+00:00
+456,P1,2021-08-08 17:24:14.947000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-08-08 17:46:52.086999+00:00
+457,P5,2021-08-14 16:35:56.328000+00:00,44.8,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,2,d5,2021-08-14 17:15:43.101000+00:00
+458,P7,2021-09-16 19:16:01.803999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-09-16 19:31:51.291000+00:00
+459,P5,2021-07-03 14:57:25.548000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d7,2021-07-03 16:27:42.917000+00:00
+460,P1,2021-08-21 12:26:35.141000+00:00,5.4,testCafeAdmin,testCafe,card,admin,SU,1,s2,2021-08-21 12:51:24.105999+00:00
+461,P1,2021-09-14 13:10:58.869000+00:00,25.5,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,b6,2021-09-14 13:33:25.045000+00:00
+462,P6,2021-08-24 18:06:33.068000+00:00,39.56,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,2,d17,2021-08-24 18:33:06.362999+00:00
+463,P5,2021-07-09 14:08:02.823999+00:00,40,testCafeAdmin,testCafe,card,admin,Limonata,2,d5,2021-07-09 14:35:20.578999+00:00
+464,P1,2021-08-28 12:37:35.803999+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,d3,2021-08-28 13:26:35.836999+00:00
+465,P7,2021-10-11 12:18:49.756000+00:00,8.5,testCafeAdmin,testCafe,cash,admin,Çay,2,b6,2021-10-11 13:10:44.010000+00:00
+466,P5,2021-07-26 18:22:17.391000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,a0,2021-07-26 21:01:45.727999+00:00
+467,P5,2021-07-18 19:32:14.729000+00:00,22,testCafeAdmin,testCafe,card,admin,AROMALI Kivi,1,d2,2021-07-18 20:21:04.441999+00:00
+468,P1,2021-08-22 18:55:32.010999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d15,2021-08-22 19:47:03.313999+00:00
+469,P6,2021-09-03 15:35:22.796999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b7,2021-09-03 16:15:43.914000+00:00
+470,P5,2021-08-02 17:21:02.888999+00:00,33,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d16,2021-08-02 18:54:27.608000+00:00
+471,P1,2021-08-18 15:43:48.132999+00:00,4.25,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-08-18 16:04:09.226000+00:00
+472,P1,2021-07-24 18:37:36.915999+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d17,2021-07-24 19:46:18.694999+00:00
+473,P1,2021-08-27 13:38:20.157000+00:00,6.325,testCafeAdmin,testCafe,cash,admin,SU,1,s6,2021-08-27 14:17:30.336999+00:00
+474,P3,2021-09-01 14:24:38.951999+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-09-01 14:57:09.884999+00:00
+475,P1,2021-08-08 17:05:52.555000+00:00,13.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d10,2021-08-08 18:04:32.332999+00:00
+476,P5,2021-07-11 13:25:05.232000+00:00,36,testCafeAdmin,testCafe,card,admin,Limonata,2,b1,2021-07-11 14:06:18.229000+00:00
+477,P5,2021-07-10 19:06:17.430000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d17,2021-07-10 19:50:16.005000+00:00
+478,P2,2021-08-15 15:46:23.071000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-08-15 16:36:49.392999+00:00
+479,P1,2021-08-13 18:39:43.851000+00:00,10.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-08-13 19:45:23.872999+00:00
+480,P1,2021-09-04 13:34:22.151000+00:00,33,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d3,2021-09-04 13:56:01.996000+00:00
+481,P6,2021-07-16 15:35:49.785000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d17,2021-07-16 16:06:25.170000+00:00
+482,P1,2021-07-23 14:45:16.308000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b6,2021-07-23 15:21:05.427999+00:00
+483,P1,2021-09-04 17:58:47.878999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-09-04 18:49:35.627000+00:00
+484,P5,2021-08-14 17:40:46.062000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d16,2021-08-14 18:22:03.611000+00:00
+485,P2,2021-08-02 10:26:48.697000+00:00,31.5,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s7,2021-08-02 10:39:54.147000+00:00
+486,P5,2021-07-12 13:31:21.114000+00:00,23.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d11,2021-07-12 13:54:16.793999+00:00
+487,P1,2021-07-24 19:20:06.013999+00:00,15,testCafeAdmin,testCafe,card,admin,Filtre Kahve,1,d8,2021-07-24 19:55:03.549999+00:00
+488,P3,2021-09-06 19:09:07.961999+00:00,14.49,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s5,2021-09-06 19:32:34.789000+00:00
+489,P5,2021-08-02 17:38:28.086999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d5,2021-08-02 18:12:27.188999+00:00
+490,P7,2021-09-21 17:31:19.545000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s7,2021-09-21 18:39:18.437000+00:00
+491,P7,2021-09-19 18:20:24.196000+00:00,30.015,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-09-19 19:05:04.625000+00:00
+492,P5,2021-07-11 20:06:21.506000+00:00,4.25,testCafeAdmin,testCafe,card,admin,Çay,1,d16,2021-07-11 20:17:16.651999+00:00
+493,P6,2021-08-10 15:35:41.249000+00:00,56,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d11,2021-08-10 15:58:55.880000+00:00
+494,P1,2021-08-17 20:05:04.653000+00:00,29.325,testCafeAdmin,testCafe,cash,admin,Oralet,1,d16,2021-08-17 20:16:23.023000+00:00
+495,P6,2021-08-31 18:45:08.878000+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d7,2021-08-31 19:22:08.311000+00:00
+496,P3,2021-09-03 13:04:17.292000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d12,2021-09-03 13:50:11.701999+00:00
+497,P6,2021-08-10 15:18:23.322999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d5,2021-08-10 16:33:13.338999+00:00
+498,P7,2021-09-29 13:19:03.061000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-09-29 14:07:45.377000+00:00
+499,P1,2021-07-28 16:46:42.069999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-07-28 17:04:39.207999+00:00
+500,P7,2021-09-29 16:52:51.838999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d19,2021-09-29 17:46:06.745000+00:00
+501,P1,2021-08-13 15:59:37.390000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,d14,2021-08-13 16:48:07.825999+00:00
+502,P5,2021-07-03 13:39:07.236999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-07-03 14:17:06.918999+00:00
+503,P1,2021-09-18 14:11:32.029000+00:00,60,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d4,2021-09-18 14:47:18.907000+00:00
+504,P6,2021-07-24 12:26:21.846999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d7,2021-07-24 13:29:39.588999+00:00
+505,P1,2021-08-07 17:08:04.433000+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d2,2021-08-07 18:11:43.197999+00:00
+506,P5,2021-07-31 19:15:28.520999+00:00,18.4,testCafeAdmin,testCafe,card,admin,Cappucino,1,d2,2021-07-31 20:09:31.433000+00:00
+507,P5,2021-06-26 13:34:52.157000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s2,2021-06-26 15:06:47.007999+00:00
+508,P1,2021-10-08 15:31:49.005000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d7,2021-10-08 16:51:47.228000+00:00
+509,P6,2021-09-02 14:23:28.835999+00:00,10.12,testCafeAdmin,testCafe,card,admin,SU,2,d4,2021-09-02 15:02:02.598999+00:00
+510,P1,2021-07-29 16:04:33.595999+00:00,22,testCafeAdmin,testCafe,cash,admin,Limonata,1,d17,2021-07-29 16:32:50.605000+00:00
+511,P6,2021-08-24 15:39:23.614000+00:00,12.75,testCafeAdmin,testCafe,card,admin,Çay,3,d4,2021-08-24 16:01:59.815999+00:00
+512,P1,2021-08-06 17:19:53.684000+00:00,11.5,testCafeAdmin,testCafe,cash,admin,SU,2,b4,2021-08-06 18:00:03.204999+00:00
+513,P7,2021-10-03 09:46:58.703999+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d5,2021-10-03 10:01:55.718000+00:00
+514,P5,2021-07-04 20:15:31.523999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d11,2021-07-04 20:23:02.098000+00:00
+515,P6,2021-08-28 16:15:16.802999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b4,2021-08-28 17:52:30.000999+00:00
+516,P1,2021-08-31 17:05:50.538000+00:00,16.5,testCafeAdmin,testCafe,card,admin,Americano,1,b8,2021-08-31 18:12:53.322999+00:00
+517,P6,2021-08-16 16:35:47.282999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,b6,2021-08-16 16:51:12.112999+00:00
+518,P2,2021-08-11 19:31:25.940999+00:00,29.4,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-08-11 20:11:45.910000+00:00
+519,P2,2021-07-04 12:20:50.565999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b1,2021-07-04 13:30:13.183000+00:00
+520,P1,2021-09-06 20:03:43.917000+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,s2,2021-09-06 20:19:05.427000+00:00
+521,P1,2021-08-06 15:30:01.388999+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,s7,2021-08-06 15:55:56.216000+00:00
+522,P2,2021-08-15 15:37:22.661000+00:00,13.68,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s1,2021-08-15 16:25:24.786999+00:00
+523,P6,2021-08-27 17:27:04.058000+00:00,27.692,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-27 18:00:24.549000+00:00
+524,P6,2021-08-23 19:46:15.322000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d16,2021-08-23 20:24:07.970000+00:00
+525,P5,2021-07-16 17:49:29.348000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-07-16 18:15:36.148999+00:00
+526,P1,2021-08-17 13:38:21.556999+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d3,2021-08-17 14:00:14.440000+00:00
+527,P2,2021-08-15 19:55:41.010999+00:00,15,testCafeAdmin,testCafe,cash,admin,Çay,3,d1,2021-08-15 20:14:08.426000+00:00
+528,P1,2021-07-21 17:54:49.407000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-07-21 18:51:09.979000+00:00
+529,P1,2021-08-20 18:11:29.122999+00:00,40.4685,testCafeAdmin,testCafe,card,admin,Limonata,2,b4,2021-08-20 19:12:02.108000+00:00
+530,P2,2021-08-15 11:58:13.566999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d11,2021-08-15 12:34:44.503999+00:00
+531,P3,2021-09-09 18:07:05.598000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d10,2021-09-09 18:37:58.907000+00:00
+532,P6,2021-08-09 18:34:45.858999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b8,2021-08-09 19:19:45.188999+00:00
+533,P1,2021-08-25 15:19:39.033999+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,b1,2021-08-25 16:13:35.430999+00:00
+534,P7,2021-09-23 15:58:07.947000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d2,2021-09-23 16:24:26.853000+00:00
+535,P6,2021-08-16 14:25:58.382999+00:00,15,testCafeAdmin,testCafe,cash,admin,Americano,1,a0,2021-08-16 14:30:55.526999+00:00
+536,P6,2021-08-10 14:08:29.941999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b2,2021-08-10 14:24:17.513000+00:00
+537,P1,2021-07-27 18:07:00.453000+00:00,32.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-07-27 18:50:22.507999+00:00
+538,P1,2021-07-27 16:40:52.778000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d12,2021-07-27 16:44:29.150000+00:00
+539,P5,2021-08-13 10:57:52.638999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d11,2021-08-13 11:19:29.959000+00:00
+540,P6,2021-08-05 17:46:11.973999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,b8,2021-08-05 18:20:37.361999+00:00
+541,P1,2021-07-25 19:24:35.407999+00:00,23,testCafeAdmin,testCafe,cash,admin,Limonata,1,d2,2021-07-25 19:59:52.746999+00:00
+542,P1,2021-07-15 15:34:23.371000+00:00,4.25,testCafeAdmin,testCafe,card,admin,SU,1,d17,2021-07-15 16:01:28.303999+00:00
+543,P5,2021-07-12 17:30:12.171000+00:00,7.35,testCafeAdmin,testCafe,card,admin,SODA,1,d1,2021-07-12 17:50:12.130000+00:00
+544,P1,2021-08-22 17:38:34.299999+00:00,10.35,testCafeAdmin,testCafe,cash,admin,SU,2,d19,2021-08-22 18:19:53.181999+00:00
+545,P6,2021-07-16 15:30:59.296999+00:00,13.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d8,2021-07-16 16:09:54.068000+00:00
+546,P6,2021-07-19 19:09:08.107000+00:00,35.2,testCafeAdmin,testCafe,card,admin,Cappucino,2,d6,2021-07-19 19:45:39.421999+00:00
+547,P3,2021-09-09 16:39:47.821000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d8,2021-09-09 17:58:59.823999+00:00
+548,P3,2021-09-01 15:58:02.566999+00:00,17.82,testCafeAdmin,testCafe,cash,admin,Limonata,1,b7,2021-09-01 16:27:26.035000+00:00
+549,P1,2021-08-08 18:11:26.901000+00:00,56,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,s7,2021-08-08 18:34:29.078999+00:00
+550,P1,2021-09-07 17:38:51.500999+00:00,69,testCafeAdmin,testCafe,card,admin,CheeseCake,2,s1,2021-09-07 18:03:05.946000+00:00
+551,P1,2021-07-29 18:25:45.094000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,s7,2021-07-29 18:37:31.105999+00:00
+552,P1,2021-08-22 12:38:12.562000+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b6,2021-08-22 13:02:34.286000+00:00
+553,P5,2021-08-14 17:21:14.568000+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,s6,2021-08-14 18:25:16.749000+00:00
+554,P2,2021-07-26 13:23:36.440999+00:00,20.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s6,2021-07-26 14:27:55.447999+00:00
+555,P1,2021-07-21 15:21:00.769000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b4,2021-07-21 16:03:01.068000+00:00
+556,P1,2021-09-11 11:41:37.609999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d12,2021-09-11 11:48:05.736999+00:00
+557,P7,2021-09-14 15:24:13.418000+00:00,34.5,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s3,2021-09-14 15:39:48.841000+00:00
+558,P1,2021-08-13 17:05:03.161999+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,b4,2021-08-13 18:41:41.684000+00:00
+559,P6,2021-08-07 15:28:08.676000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b8,2021-08-07 15:51:50.292999+00:00
+560,P1,2021-08-20 16:29:05.823999+00:00,56,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d7,2021-08-20 16:54:14.696000+00:00
+561,P3,2021-09-03 17:28:37.094000+00:00,11.5,testCafeAdmin,testCafe,cash,admin,SU,2,d17,2021-09-03 18:03:47.993000+00:00
+562,P3,2021-09-03 16:20:52.667000+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d10,2021-09-03 16:52:50.325999+00:00
+563,P6,2021-08-17 17:15:21.200999+00:00,25.088,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d2,2021-08-17 17:25:40.568000+00:00
+564,P3,2021-09-07 16:03:28.436000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d8,2021-09-07 16:36:08.911000+00:00
+565,P5,2021-07-23 09:53:16.951999+00:00,4.25,testCafeAdmin,testCafe,card,admin,SU,1,d6,2021-07-23 09:53:35.601000+00:00
+566,P7,2021-10-05 15:02:47.668999+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,s4,2021-10-05 15:15:59.370000+00:00
+567,P7,2021-10-09 15:39:41.331000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b8,2021-10-09 15:51:48.317000+00:00
+568,P7,2021-09-19 18:57:57.068000+00:00,34.5,testCafeAdmin,testCafe,card,admin,Oralet,1,d8,2021-09-19 19:31:42.772000+00:00
+569,P6,2021-08-23 19:42:09.095000+00:00,11,testCafeAdmin,testCafe,cash,admin,SU,2,s5,2021-08-23 19:48:18.331000+00:00
+570,P3,2021-09-07 16:58:12.556999+00:00,91.08,testCafeAdmin,testCafe,cash,admin,CheeseCake,3,d2,2021-09-07 17:24:28.703000+00:00
+571,P1,2021-07-27 17:01:15.864000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d16,2021-07-27 17:08:31.348000+00:00
+572,P5,2021-06-28 16:33:14.061000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d5,2021-06-28 18:08:44.246999+00:00
+573,P5,2021-06-26 12:46:53.799000+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-06-26 14:17:39.959000+00:00
+574,P1,2021-08-31 17:27:31.598999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d16,2021-08-31 17:35:30.999000+00:00
+575,P5,2021-08-17 11:37:40.078000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d12,2021-08-17 11:59:18.907999+00:00
+576,P1,2021-07-21 18:47:19.707999+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d19,2021-07-21 19:43:41.723000+00:00
+577,P3,2021-09-06 16:19:19.670000+00:00,29.67,testCafeAdmin,testCafe,card,admin,Islak kek,1,d8,2021-09-06 17:01:33.490000+00:00
+578,P1,2021-08-13 14:43:57.680000+00:00,13.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d3,2021-08-13 15:08:50.778000+00:00
+579,P1,2021-07-23 19:10:02.641999+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d1,2021-07-23 19:16:56.982000+00:00
+580,P5,2021-07-26 17:39:34.609999+00:00,36.8,testCafeAdmin,testCafe,cash,admin,Cappucino,2,b4,2021-07-26 18:22:06.163000+00:00
+581,P1,2021-07-22 14:44:08.674999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d6,2021-07-22 14:57:34.375000+00:00
+582,P5,2021-07-08 19:12:43.486999+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s1,2021-07-08 19:35:57.723999+00:00
+583,P1,2021-08-03 16:50:38.184999+00:00,16.5,testCafeAdmin,testCafe,cash,admin,Çay,3,d4,2021-08-03 17:13:23.420000+00:00
+584,P2,2021-06-30 13:43:16.506999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-06-30 15:09:37.647000+00:00
+585,P1,2021-09-14 17:07:52.450000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d11,2021-09-14 17:27:16.769000+00:00
+586,P5,2021-08-18 12:13:58.561000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s6,2021-08-18 12:32:30.674000+00:00
+587,P3,2021-09-09 17:55:50.839999+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d6,2021-09-09 19:45:13.038000+00:00
+588,P6,2021-08-23 19:12:51.665999+00:00,11,testCafeAdmin,testCafe,card,admin,Çay,2,d5,2021-08-23 19:34:30.747999+00:00
+589,P6,2021-08-30 19:48:05.420000+00:00,10.35,testCafeAdmin,testCafe,cash,admin,SU,2,d6,2021-08-30 20:05:01.430000+00:00
+590,P1,2021-08-17 13:52:45.105000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s2,2021-08-17 14:17:04.723000+00:00
+591,P1,2021-09-08 15:20:34.289999+00:00,15,testCafeAdmin,testCafe,cash,admin,Americano,1,d6,2021-09-08 15:42:11.871000+00:00
+592,P7,2021-09-17 14:59:26.164000+00:00,30,testCafeAdmin,testCafe,cash,admin,SU,6,d5,2021-09-17 15:19:08.363000+00:00
+593,P5,2021-08-02 15:54:58.414999+00:00,17,testCafeAdmin,testCafe,card,admin,Limonata,1,d3,2021-08-02 16:23:27.240000+00:00
+594,P6,2021-08-24 18:09:35.802999+00:00,13.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b8,2021-08-24 19:26:26.329999+00:00
+595,P3,2021-09-10 12:30:08.592999+00:00,18,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,d2,2021-09-10 13:27:50.839999+00:00
+596,P1,2021-08-03 18:33:14.849999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d2,2021-08-03 19:25:48.072999+00:00
+597,P6,2021-08-03 16:30:09.819000+00:00,11,testCafeAdmin,testCafe,card,admin,SU,2,s6,2021-08-03 16:54:31.773000+00:00
+598,P5,2021-07-05 16:20:09.071000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d5,2021-07-05 17:28:11.414999+00:00
+599,P5,2021-07-16 17:52:47.095999+00:00,39.6,testCafeAdmin,testCafe,cash,admin,Limonata,2,d19,2021-07-16 18:31:01.392999+00:00
+600,P6,2021-08-16 18:25:57.703999+00:00,11,testCafeAdmin,testCafe,cash,admin,SU,2,d2,2021-08-16 18:37:31.230999+00:00
+601,P6,2021-08-30 15:33:39.305000+00:00,0,testCafeAdmin,testCafe,cash,admin,Çay,2,s10,2021-08-30 20:16:36.947000+00:00
+602,P5,2021-07-28 15:47:46.427999+00:00,15,testCafeAdmin,testCafe,card,admin,Americano,1,a0,2021-07-28 16:53:29.667000+00:00
+603,P7,2021-10-03 14:16:10.338000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d3,2021-10-03 14:35:44.124000+00:00
+604,P1,2021-07-28 17:36:24.940999+00:00,33,testCafeAdmin,testCafe,card,admin,Oralet,1,s7,2021-07-28 18:26:58.697999+00:00
+605,P5,2021-08-18 12:11:35.072000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d5,2021-08-18 12:55:24.377000+00:00
+606,P6,2021-08-09 15:25:35.098999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-09 16:12:12.062999+00:00
+607,P1,2021-09-21 14:10:37.420000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d19,2021-09-21 14:24:21.893000+00:00
+608,P1,2021-07-23 15:06:20.167000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b4,2021-07-23 16:47:55.642999+00:00
+609,P5,2021-08-08 16:10:01.816999+00:00,14.08,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d10,2021-08-08 16:29:17.102999+00:00
+610,P7,2021-09-22 12:52:34.385000+00:00,11.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b3,2021-09-22 13:04:57.741000+00:00
+611,P2,2021-08-10 17:36:22.687999+00:00,66,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,2,b8,2021-08-10 19:45:39.144999+00:00
+612,P5,2021-06-25 14:39:33.253000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d2,2021-06-25 16:01:30.259999+00:00
+613,P5,2021-08-02 18:01:16.782000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d10,2021-08-02 19:01:18.822000+00:00
+614,P6,2021-08-28 18:11:25.394000+00:00,4.5,testCafeAdmin,testCafe,cash,admin,Çay,1,b4,2021-08-28 19:07:48.819000+00:00
+615,P3,2021-09-12 18:37:04.838000+00:00,11,testCafeAdmin,testCafe,card,admin,SU,2,b4,2021-09-12 19:29:31.345000+00:00
+616,P3,2021-09-12 11:42:34.684999+00:00,15,testCafeAdmin,testCafe,card,admin,Çay,3,d10,2021-09-12 11:59:04.562999+00:00
+617,P7,2021-09-28 15:13:35.115999+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b7,2021-09-28 15:39:53.536000+00:00
+618,P1,2021-08-07 16:31:42.443000+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d4,2021-08-07 17:00:06.723999+00:00
+619,P5,2021-08-17 11:29:35.937000+00:00,12,testCafeAdmin,testCafe,cash,admin, ESPRESSO,1,s1,2021-08-17 12:01:54.555999+00:00
+620,P1,2021-09-25 16:10:46.797000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d5,2021-09-25 17:00:04.751000+00:00
+621,P2,2021-07-08 13:48:17.782000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b3,2021-07-08 14:18:55.619999+00:00
+622,P1,2021-09-10 19:40:00.137000+00:00,30.015,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d17,2021-09-10 20:00:34.775000+00:00
+623,P1,2021-10-01 18:19:12.661999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-10-01 18:55:27.902000+00:00
+624,P7,2021-09-23 15:38:21.242000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b3,2021-09-23 15:46:52.144000+00:00
+625,P1,2021-08-12 15:53:13.555999+00:00,15,testCafeAdmin,testCafe,card,admin,Americano,1,d11,2021-08-12 16:46:24.767999+00:00
+626,P7,2021-09-17 18:39:59.330000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d14,2021-09-17 19:22:17.473000+00:00
+627,P1,2021-07-24 18:37:18.355999+00:00,5.175,testCafeAdmin,testCafe,cash,admin,Çay,1,d8,2021-07-24 19:01:47.163000+00:00
+628,P1,2021-08-26 17:44:22.073999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d17,2021-08-26 17:55:11.319999+00:00
+629,P2,2021-08-11 15:57:10.400000+00:00,39.324,testCafeAdmin,testCafe,card,admin,Limonata,2,s7,2021-08-11 18:08:14.026999+00:00
+630,P1,2021-07-21 17:36:57.338999+00:00,25.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-07-21 18:12:02.005000+00:00
+631,P1,2021-09-28 12:22:25.967000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-09-28 13:08:19.721000+00:00
+632,P1,2021-09-18 17:42:42.173000+00:00,11.9,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d7,2021-09-18 18:02:10.011000+00:00
+633,P1,2021-08-13 19:55:14.038000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d11,2021-08-13 20:23:42.660000+00:00
+634,P5,2021-07-05 18:25:00.575999+00:00,24.3,testCafeAdmin,testCafe,cash,admin,Oralet,1,d2,2021-07-05 18:49:57.809999+00:00
+635,P6,2021-08-27 16:09:05.971999+00:00,5.06,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-08-27 17:01:46.568000+00:00
+636,P6,2021-07-30 15:44:18.026999+00:00,26.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s2,2021-07-30 16:27:25.650000+00:00
+637,P7,2021-09-18 16:01:30.043999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d19,2021-09-18 16:25:52.321000+00:00
+638,P1,2021-09-21 14:17:23.608000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s4,2021-09-21 14:38:05.883000+00:00
+639,P1,2021-09-04 18:17:55.881999+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-09-04 18:59:18.181999+00:00
+640,P1,2021-07-22 12:45:25.509999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-07-22 13:30:22.440999+00:00
+641,P5,2021-08-02 17:38:22.471999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d5,2021-08-02 18:12:27.188999+00:00
+642,P7,2021-10-12 18:00:45.424000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,s2,2021-10-12 18:58:12.971000+00:00
+643,P1,2021-08-07 12:43:41.437000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,b1,2021-08-07 14:56:59.526999+00:00
+644,P7,2021-10-03 13:20:42.575000+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d7,2021-10-03 14:49:20.592000+00:00
+645,P7,2021-09-30 17:11:37.217000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s7,2021-09-30 18:17:06.959000+00:00
+646,P3,2021-09-01 17:32:03.382999+00:00,12.006,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d11,2021-09-01 17:50:08.463000+00:00
+647,P6,2021-07-15 19:47:47.463999+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b3,2021-07-15 20:05:39.772000+00:00
+648,P1,2021-08-08 19:08:51.493000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d17,2021-08-08 20:00:42.987999+00:00
+649,P6,2021-08-17 18:45:52.645999+00:00,61.6,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d18,2021-08-17 19:13:59.114000+00:00
+650,P5,2021-07-17 16:50:20.894999+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d11,2021-07-17 18:20:00.042000+00:00
+651,P6,2021-08-29 16:08:30.486000+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,d2,2021-08-29 16:41:00.769999+00:00
+652,P3,2021-09-11 18:59:45.826999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d18,2021-09-11 20:11:42.073999+00:00
+653,P1,2021-07-29 14:07:48+00:00,28,testCafeAdmin,testCafe,card,admin,SODA,4,d4,2021-07-29 14:58:48.006000+00:00
+654,P7,2021-09-16 15:34:59.599999+00:00,14.007,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s7,2021-09-16 15:53:37.562000+00:00
+655,P5,2021-06-28 11:22:44.252000+00:00,4.25,testCafeAdmin,testCafe,cash,admin,Çay,1,b2,2021-06-28 12:25:30.753000+00:00
+656,P1,2021-10-01 17:18:25.995000+00:00,8.7,testCafeAdmin,testCafe,card,admin,Çay,2,d11,2021-10-01 17:53:01.885000+00:00
+657,P7,2021-09-16 15:45:19.122000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b7,2021-09-16 16:18:00.300000+00:00
+658,P5,2021-07-05 14:51:45.306999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d2,2021-07-05 15:19:35.519000+00:00
+659,P2,2021-08-15 18:57:54.226000+00:00,23.52,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-08-15 19:48:27.186000+00:00
+660,P6,2021-08-09 18:48:29.512000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d7,2021-08-09 19:16:26.990000+00:00
+661,P1,2021-07-23 15:01:40.385999+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d6,2021-07-23 15:31:01.703999+00:00
+662,P1,2021-09-21 15:39:08.976999+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s7,2021-09-21 16:03:40.864000+00:00
+663,P1,2021-07-21 16:03:47.124000+00:00,17.6,testCafeAdmin,testCafe,card,admin,Cappucino,1,a0,2021-07-21 16:43:02.469000+00:00
+664,P3,2021-09-02 15:38:03+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-09-02 16:11:55.964999+00:00
+665,P3,2021-09-08 17:59:35.059999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b4,2021-09-08 18:23:22.414999+00:00
+666,P6,2021-08-26 15:37:34.614000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b7,2021-08-26 16:10:17.845999+00:00
+667,P5,2021-08-04 13:45:31.434000+00:00,4.5,testCafeAdmin,testCafe,cash,admin,SU,1,s5,2021-08-04 14:09:01.742000+00:00
+668,P5,2021-08-13 11:26:31.506999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s1,2021-08-13 12:08:29.773999+00:00
+669,P5,2021-08-02 19:18:30.269999+00:00,36.3,testCafeAdmin,testCafe,cash,admin,Oralet,1,d2,2021-08-02 20:10:20.398000+00:00
+670,P3,2021-09-11 16:23:29.496000+00:00,45,testCafeAdmin,testCafe,cash,admin,Americano,3,d1,2021-09-11 16:57:19.836999+00:00
+671,P5,2021-07-10 18:07:34.832999+00:00,4.25,testCafeAdmin,testCafe,card,admin,Çay,1,d11,2021-07-10 18:21:51.585000+00:00
+672,P3,2021-09-01 17:03:16.299000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d14,2021-09-01 17:30:19.545000+00:00
+673,P2,2021-07-12 09:54:03.453999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d9,2021-07-12 10:54:12.016000+00:00
+674,P1,2021-09-15 16:43:20.628999+00:00,9,testCafeAdmin,testCafe,cash,admin,Çay,2,d8,2021-09-15 19:23:01.611000+00:00
+675,P1,2021-07-18 15:11:36.405999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s6,2021-07-18 15:58:17.783999+00:00
+676,P3,2021-09-11 19:07:40.484999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,s2,2021-09-11 19:28:33.509999+00:00
+677,P1,2021-09-21 16:05:22.523000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-09-21 16:54:34.216000+00:00
+678,P6,2021-08-27 17:02:10.283999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d10,2021-08-27 17:58:33.887000+00:00
+679,P1,2021-09-18 18:13:47.648999+00:00,20.4723,testCafeAdmin,testCafe,cash,admin,Limonata,1,d10,2021-09-18 18:44:35.924000+00:00
+680,P6,2021-08-23 17:42:23.424999+00:00,25.76,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-08-23 18:50:29.279000+00:00
+681,P7,2021-09-16 15:15:45.744000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d8,2021-09-16 15:42:35.093000+00:00
+682,P1,2021-07-27 14:08:01.967000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d2,2021-07-27 14:39:20.019999+00:00
+683,P5,2021-07-18 18:00:08.917000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,b8,2021-07-18 18:46:19.003999+00:00
+684,P1,2021-09-14 14:23:34.321000+00:00,34.5,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d5,2021-09-14 15:27:12.774000+00:00
+685,P5,2021-07-05 19:01:00.434000+00:00,24.3,testCafeAdmin,testCafe,card,admin,Oralet,1,d2,2021-07-05 19:36:12.128000+00:00
+686,P1,2021-08-08 17:50:31.173000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d14,2021-08-08 18:33:43.117000+00:00
+687,P3,2021-09-01 16:34:16.213999+00:00,15.0075,testCafeAdmin,testCafe,cash,admin,SU,3,d6,2021-09-01 16:51:50.174999+00:00
+688,P7,2021-09-15 14:22:08.190999+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d7,2021-09-15 15:10:33.276000+00:00
+689,P1,2021-08-18 17:56:06.085000+00:00,4.6,testCafeAdmin,testCafe,cash,admin,SU,1,d16,2021-08-18 18:14:42.378000+00:00
+690,P3,2021-09-08 18:15:09.684000+00:00,14.49,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-09-08 18:38:15.319000+00:00
+691,P5,2021-07-12 17:54:06.618000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-07-12 18:33:41.157999+00:00
+692,P6,2021-08-23 19:13:17.711999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d7,2021-08-23 20:27:36.161999+00:00
+693,P6,2021-07-22 13:43:03.690000+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d5,2021-07-22 14:24:44.303999+00:00
+694,P1,2021-08-22 12:45:02.941999+00:00,23,testCafeAdmin,testCafe,card,admin,Limonata,1,s1,2021-08-22 13:50:19.288000+00:00
+695,P1,2021-07-17 12:30:35.079999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-07-17 12:39:38.611000+00:00
+696,P3,2021-09-11 19:07:38.842999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,s2,2021-09-11 19:28:33.509999+00:00
+697,P1,2021-07-18 12:42:05.770999+00:00,10.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d12,2021-07-18 13:03:44.292000+00:00
+698,P5,2021-07-14 18:26:28.095999+00:00,19.8,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,d18,2021-07-14 19:11:00.584000+00:00
+699,P1,2021-08-06 15:43:42.808000+00:00,6.44,testCafeAdmin,testCafe,cash,admin,SODA,1,b8,2021-08-06 16:11:13.786999+00:00
+700,P1,2021-07-28 17:36:53.697000+00:00,22,testCafeAdmin,testCafe,card,admin,Limonata,1,s7,2021-07-28 18:26:58.697999+00:00
+701,P3,2021-09-01 18:21:12.401999+00:00,34.5,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d2,2021-09-01 18:38:49.160000+00:00
+702,P3,2021-09-01 17:35:37.535000+00:00,69,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d16,2021-09-01 17:55:10.250999+00:00
+703,P7,2021-10-12 17:44:47.530999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,s1,2021-10-12 17:59:50.752000+00:00
+704,P1,2021-07-25 17:27:47.016999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d13,2021-07-25 18:16:29.151000+00:00
+705,P1,2021-07-27 19:33:57.855999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,b8,2021-07-27 20:09:39.017999+00:00
+706,P3,2021-09-09 19:09:51.259000+00:00,34.5,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d14,2021-09-09 19:54:13.101000+00:00
+707,P3,2021-09-08 17:23:54.151000+00:00,16.56,testCafeAdmin,testCafe,cash,admin,Cappucino,1,b4,2021-09-08 17:50:41.459000+00:00
+708,P5,2021-07-02 16:04:59.418999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b4,2021-07-02 16:52:44.183000+00:00
+709,P1,2021-07-18 12:41:24.473999+00:00,36,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,2,s3,2021-07-18 13:39:09.404999+00:00
+710,P6,2021-07-24 12:37:41.069000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-07-24 13:14:37.421999+00:00
+711,P1,2021-08-05 18:58:43.631000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,b2,2021-08-05 20:13:34.690000+00:00
+712,P5,2021-06-28 11:03:00.335000+00:00,15,testCafeAdmin,testCafe,card,admin,Filtre Kahve,1,d2,2021-06-28 13:06:22.026999+00:00
+713,P3,2021-09-03 15:19:42.671000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b7,2021-09-03 16:15:43.914000+00:00
+714,P6,2021-08-07 18:39:54.562999+00:00,20,testCafeAdmin,testCafe,card,admin,Limonata,1,s1,2021-08-07 18:54:31.568000+00:00
+715,P7,2021-09-21 16:15:07.426000+00:00,4.945,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-09-21 16:46:22.843000+00:00
+716,P1,2021-08-31 13:24:58.930999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b5,2021-08-31 13:56:10.170000+00:00
+717,P5,2021-06-25 17:34:57.411000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-06-25 18:57:08.572000+00:00
+718,P6,2021-09-05 16:35:43.046999+00:00,31.05,testCafeAdmin,testCafe,card,admin,Islak kek,1,d14,2021-09-05 16:56:35.724999+00:00
+719,P6,2021-08-26 18:42:42.677000+00:00,5.6925,testCafeAdmin,testCafe,cash,admin,Çay,1,d10,2021-08-26 19:22:16.733000+00:00
+720,P6,2021-08-24 17:55:40.555999+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d6,2021-08-24 19:07:36.625999+00:00
+721,P5,2021-06-28 14:32:46.414000+00:00,25,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-06-28 16:24:24.734999+00:00
+722,P1,2021-08-08 17:37:34.059000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d10,2021-08-08 18:04:32.332999+00:00
+723,P3,2021-09-03 15:48:42.321000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d19,2021-09-03 16:38:55.848999+00:00
+724,P7,2021-09-18 15:29:44.566999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b6,2021-09-18 16:03:05.225000+00:00
+725,P2,2021-06-30 13:33:45.348999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s4,2021-06-30 14:34:18.141999+00:00
+726,P1,2021-09-06 14:00:18.924000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d19,2021-09-06 14:21:59.565000+00:00
+727,P7,2021-10-10 13:05:54.456000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b6,2021-10-10 13:25:24.458000+00:00
+728,P6,2021-08-26 18:17:10.234999+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,d2,2021-08-26 19:01:46.650000+00:00
+729,P1,2021-07-25 18:00:37.667999+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,d4,2021-07-25 18:27:26.161000+00:00
+730,P1,2021-08-01 16:31:12.112999+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,s1,2021-08-01 16:33:50.404999+00:00
+731,P3,2021-09-09 16:22:38.622999+00:00,15,testCafeAdmin,testCafe,card,admin,Çay,3,b8,2021-09-09 16:56:56.207999+00:00
+732,P6,2021-08-16 18:27:22.085000+00:00,22,testCafeAdmin,testCafe,card,admin,AROMALI Kivi,1,d17,2021-08-16 19:05:13.634000+00:00
+733,P7,2021-09-26 18:41:22.994000+00:00,23.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d16,2021-09-26 19:35:35.878000+00:00
+734,P3,2021-09-09 18:47:00.552999+00:00,12.6,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-09-09 19:16:55.599999+00:00
+735,P1,2021-09-09 11:36:41.855000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,s7,2021-09-09 11:47:08.934000+00:00
+736,P6,2021-08-24 17:30:32.782000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d15,2021-08-24 18:42:32.046000+00:00
+737,P1,2021-09-07 17:38:59.976000+00:00,16.1,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s1,2021-09-07 18:03:05.946000+00:00
+738,P1,2021-07-13 17:08:07.388000+00:00,30.87,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-07-13 17:39:20.030999+00:00
+739,P1,2021-08-18 18:20:47.200999+00:00,25.875,testCafeAdmin,testCafe,card,admin,Oralet,1,s6,2021-08-18 18:27:40.428999+00:00
+740,P1,2021-10-03 17:47:39.076000+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d7,2021-10-03 18:31:48.193000+00:00
+741,P7,2021-09-27 18:56:28.818000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-09-27 20:04:36.646000+00:00
+742,P2,2021-08-11 17:19:08.118000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d4,2021-08-11 18:04:04.115000+00:00
+743,P1,2021-07-29 13:16:36.454999+00:00,54,testCafeAdmin,testCafe,card,admin,Oralet,2,s4,2021-07-29 13:42:34.815999+00:00
+744,P6,2021-07-24 17:43:49.862999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-07-24 19:15:22.433000+00:00
+745,P7,2021-09-16 14:45:12.398000+00:00,30.015,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d14,2021-09-16 15:02:12.918000+00:00
+746,P6,2021-07-19 16:52:46.040999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-07-19 18:29:42.864000+00:00
+747,P1,2021-10-03 12:14:02.641999+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d8,2021-10-03 12:42:53.344000+00:00
+748,P1,2021-08-03 18:53:12.092999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d7,2021-08-03 19:54:27.759000+00:00
+749,P5,2021-08-14 19:20:53.401999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-08-14 19:47:12.767999+00:00
+750,P5,2021-07-18 17:04:52.934000+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d6,2021-07-18 17:16:50.170000+00:00
+751,P6,2021-08-01 15:09:36.365999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-01 15:42:21.496999+00:00
+752,P5,2021-07-28 18:45:59.532999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d15,2021-07-28 19:34:09.384000+00:00
+753,P1,2021-08-22 17:54:06.194999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d15,2021-08-22 18:31:50.851000+00:00
+754,P6,2021-08-29 18:37:26.552000+00:00,32.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d4,2021-08-29 19:55:50.407000+00:00
+755,P3,2021-09-09 14:51:39.131000+00:00,33.12,testCafeAdmin,testCafe,card,admin,Cappucino,2,d19,2021-09-09 15:37:46.380000+00:00
+756,P6,2021-07-17 14:49:09.246999+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,s1,2021-07-17 15:04:09.476000+00:00
+757,P2,2021-08-15 15:12:36.661000+00:00,40,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,2,b6,2021-08-15 15:37:52.035000+00:00
+758,P1,2021-08-12 15:25:02.244999+00:00,52.8,testCafeAdmin,testCafe,cash,admin,Limonata,3,d6,2021-08-12 16:15:10.081000+00:00
+759,P6,2021-07-19 18:58:37.473999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-07-19 19:33:52.582000+00:00
+760,P5,2021-07-12 18:39:09.042000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b4,2021-07-12 19:16:35.075999+00:00
+761,P1,2021-08-18 15:02:02.085000+00:00,11,testCafeAdmin,testCafe,cash,admin,Çay,2,d1,2021-08-18 15:23:22.073999+00:00
+762,P2,2021-08-11 16:16:52.881000+00:00,27,testCafeAdmin,testCafe,card,admin,Oralet,1,s2,2021-08-11 17:15:18.871000+00:00
+763,P2,2021-07-07 12:12:59.999000+00:00,9,testCafeAdmin,testCafe,card,admin,Çay,3,d6,2021-07-07 12:58:53.822999+00:00
+764,P7,2021-09-25 15:20:32.983000+00:00,34,testCafeAdmin,testCafe,card,admin,Limonata,2,d5,2021-09-25 15:47:48.230000+00:00
+765,P2,2021-08-15 16:55:02.994999+00:00,4.6,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-08-15 17:30:58.802000+00:00
+766,P2,2021-07-04 12:31:14.480999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d16,2021-07-04 13:58:29.461999+00:00
+767,P1,2021-08-13 18:38:02.392999+00:00,26.6112,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d7,2021-08-13 19:24:56.596999+00:00
+768,P2,2021-07-12 12:42:27.832000+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s2,2021-07-12 12:59:31.851999+00:00
+769,P7,2021-09-16 19:19:27.028000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d16,2021-09-16 19:52:51.804000+00:00
+770,P5,2021-08-09 10:48:45.874000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d2,2021-08-09 13:16:47.565000+00:00
+771,P6,2021-08-23 17:08:10.279000+00:00,13.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d1,2021-08-23 18:17:15.273999+00:00
+772,P5,2021-08-04 13:40:12.963000+00:00,7.5,testCafeAdmin,testCafe,cash,admin,SU,2,b3,2021-08-04 14:28:47.243999+00:00
+773,P7,2021-09-19 16:19:54.539999+00:00,14,testCafeAdmin,testCafe,cash,admin,SODA,2,d4,2021-09-19 16:51:37.296000+00:00
+774,P1,2021-07-30 12:07:49.946000+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s1,2021-07-30 13:00:52.947999+00:00
+775,P1,2021-09-04 14:53:58.122999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,s1,2021-09-04 15:16:37.464999+00:00
+776,P1,2021-07-27 16:24:40.076999+00:00,11,testCafeAdmin,testCafe,cash,admin,Çay,2,d2,2021-07-27 16:59:46.684000+00:00
+777,P7,2021-09-19 16:56:20.450999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-09-19 17:35:01.187000+00:00
+778,P6,2021-08-07 14:58:10+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s6,2021-08-07 15:39:02.388999+00:00
+779,P5,2021-07-03 17:19:28.168999+00:00,4.25,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-07-03 18:02:48.563999+00:00
+780,P5,2021-08-14 19:29:43.903000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s6,2021-08-14 19:51:01.022000+00:00
+781,P6,2021-08-30 16:23:25.450000+00:00,28.336,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-08-30 16:42:59.309999+00:00
+782,P5,2021-08-14 16:54:22.309000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d14,2021-08-14 17:19:02.392999+00:00
+783,P2,2021-07-19 11:07:38.332999+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d1,2021-07-19 13:02:26.733999+00:00
+784,P5,2021-08-02 15:03:09.811000+00:00,21.6,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d6,2021-08-02 15:20:49.092000+00:00
+785,P7,2021-09-16 18:35:39.785000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,d14,2021-09-16 19:23:48.848000+00:00
+786,P1,2021-09-11 15:54:17.250000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d8,2021-09-11 17:39:42.137000+00:00
+787,P1,2021-07-25 13:41:26.239000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s3,2021-07-25 13:56:46.039000+00:00
+788,P7,2021-09-26 18:54:15.698999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,b4,2021-09-26 19:21:23.047000+00:00
+789,P1,2021-08-27 15:35:34.051000+00:00,28.014,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s6,2021-08-27 16:04:57.720000+00:00
+790,P5,2021-07-31 19:31:59.946000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d7,2021-07-31 19:40:35.582999+00:00
+791,P6,2021-08-01 18:09:08.696000+00:00,26.77752,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,s6,2021-08-01 20:30:31.257999+00:00
+792,P6,2021-08-16 16:17:21.028000+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d19,2021-08-16 16:54:28.051000+00:00
+793,P5,2021-07-05 18:43:07.625999+00:00,25,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-07-05 19:45:03.188999+00:00
+794,P2,2021-08-11 15:00:55.048000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-08-11 16:52:00.256999+00:00
+795,P5,2021-07-30 18:55:46.201999+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d14,2021-07-30 19:12:41.229000+00:00
+796,P5,2021-07-06 11:57:51.354000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-07-06 12:27:22.494999+00:00
+797,P5,2021-07-14 17:39:12.233999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d17,2021-07-14 18:02:34.009999+00:00
+798,P3,2021-09-07 16:06:32.691999+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d10,2021-09-07 16:36:39.677999+00:00
+799,P5,2021-07-06 14:58:35.022000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b4,2021-07-06 16:33:37.714999+00:00
+800,P7,2021-10-04 17:35:20.668999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-10-04 18:06:27.021000+00:00
+801,P5,2021-07-10 16:37:39.963999+00:00,18,testCafeAdmin,testCafe,card,admin,Yeşil Çay,1,d1,2021-07-10 17:12:06.568000+00:00
+802,P1,2021-08-29 16:18:38.092000+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,s7,2021-08-29 16:38:14.150000+00:00
+803,P7,2021-10-02 15:33:26.322999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b6,2021-10-02 16:11:03.873000+00:00
+804,P5,2021-08-14 16:37:01.026000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d7,2021-08-14 16:50:01.559999+00:00
+805,P5,2021-07-28 16:13:43.299999+00:00,31.74,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d11,2021-07-28 16:51:15.401999+00:00
+806,P5,2021-07-16 17:38:18.493000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d4,2021-07-16 18:15:36.148999+00:00
+807,P1,2021-09-04 11:50:26.576999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d1,2021-09-04 12:20:39.921999+00:00
+808,P7,2021-09-29 18:06:36.641000+00:00,15,testCafeAdmin,testCafe,card,admin,Americano,1,d2,2021-09-29 19:50:13.303000+00:00
+809,P5,2021-08-04 17:44:43.019999+00:00,22,testCafeAdmin,testCafe,cash,admin,SU,4,d1,2021-08-04 18:06:21.964999+00:00
+810,P1,2021-07-18 15:29:14.703000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s7,2021-07-18 16:06:56.184999+00:00
+811,P3,2021-09-09 17:27:53.308000+00:00,12.6,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d2,2021-09-09 18:07:16.101000+00:00
+812,P5,2021-07-17 17:15:09.717000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d11,2021-07-17 18:20:00.042000+00:00
+813,P1,2021-09-26 14:23:55.937000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d8,2021-09-26 14:33:41.012000+00:00
+814,P1,2021-09-04 17:59:20.822000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d19,2021-09-04 19:06:11.321000+00:00
+815,P7,2021-10-10 12:06:41.279000+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,d10,2021-10-10 13:01:07.355000+00:00
+816,P7,2021-09-27 18:44:48.855999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d10,2021-09-27 18:57:26.318000+00:00
+817,P1,2021-09-11 16:40:52.226000+00:00,27,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b6,2021-09-11 17:09:05.184000+00:00
+818,P1,2021-08-13 17:03:10.658999+00:00,25.088,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d10,2021-08-13 18:00:16.046000+00:00
+819,P6,2021-08-30 19:46:21.700000+00:00,5.819,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-08-30 19:53:21.648999+00:00
+820,P5,2021-07-18 19:45:22.301000+00:00,39.6,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,3,s7,2021-07-18 20:23:40.549000+00:00
+821,P1,2021-08-14 16:01:17.358999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b4,2021-08-14 16:48:22.200999+00:00
+822,P3,2021-09-01 16:29:52.058000+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-09-01 16:44:56.546000+00:00
+823,P1,2021-09-08 15:38:04.326999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d9,2021-09-08 16:15:05.095999+00:00
+824,P1,2021-07-29 15:31:21.769999+00:00,17.25,testCafeAdmin,testCafe,cash,admin,Americano,1,b8,2021-07-29 16:05:15.451999+00:00
+825,P5,2021-07-12 19:20:12.969000+00:00,25.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d16,2021-07-12 20:16:28.786000+00:00
+826,P3,2021-09-10 12:45:33.461999+00:00,29.67,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d16,2021-09-10 15:19:15.028000+00:00
+827,P3,2021-09-13 15:33:15.729000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d16,2021-09-13 16:21:55.555999+00:00
+828,P5,2021-06-28 14:19:25.907999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d12,2021-06-28 15:26:49.069999+00:00
+829,P6,2021-08-05 17:18:40.595999+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,s1,2021-08-05 18:35:22.555999+00:00
+830,P1,2021-08-06 16:26:52.230999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b6,2021-08-06 17:02:43.507999+00:00
+831,P7,2021-09-16 14:21:34.007999+00:00,14.49,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d10,2021-09-16 15:01:09.466000+00:00
+832,P1,2021-08-13 17:37:03.703999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-08-13 17:54:31.242000+00:00
+833,P3,2021-09-08 12:53:37.184000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d13,2021-09-08 13:46:45.355999+00:00
+834,P1,2021-08-04 16:26:45.845000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,b8,2021-08-04 16:52:31.719000+00:00
+835,P1,2021-07-28 19:16:15.368999+00:00,33,testCafeAdmin,testCafe,card,admin,Islak kek,1,d11,2021-07-28 19:40:28.618999+00:00
+836,P1,2021-07-22 12:35:41.625000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d11,2021-07-22 12:48:06.739000+00:00
+837,P6,2021-08-22 14:05:52.950999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-08-22 15:03:54.260999+00:00
+838,P5,2021-07-16 16:48:33.826999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-07-16 17:30:37.622999+00:00
+839,P5,2021-07-06 14:34:39.407999+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,b4,2021-07-06 14:54:55.595000+00:00
+840,P5,2021-07-04 13:47:31.926000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,d2,2021-07-04 14:40:34.984999+00:00
+841,P1,2021-09-04 18:29:16.173000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d11,2021-09-04 18:49:33.319999+00:00
+842,P1,2021-08-13 19:30:07.354000+00:00,11.2,testCafeAdmin,testCafe,cash,admin,SU,2,d7,2021-08-13 20:16:19.446000+00:00
+843,P3,2021-09-12 18:08:47.345000+00:00,15.824,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s1,2021-09-12 18:51:06.342999+00:00
+844,P1,2021-08-05 15:38:45.417999+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,s6,2021-08-05 16:45:24.940999+00:00
+845,P7,2021-09-25 12:24:25.945000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d7,2021-09-25 12:45:31.587000+00:00
+846,P1,2021-07-18 15:25:41.345000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-18 17:04:56.793999+00:00
+847,P5,2021-08-07 10:47:43.647000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d12,2021-08-07 11:15:16.085000+00:00
+848,P5,2021-07-13 11:28:35.131000+00:00,6,testCafeAdmin,testCafe,cash,admin,Çay,2,b1,2021-07-13 11:57:52.713000+00:00
+849,P3,2021-09-06 17:05:14.914000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d18,2021-09-06 17:27:14.851999+00:00
+850,P6,2021-08-10 16:00:32.213000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-08-10 16:44:32.255000+00:00
+851,P5,2021-07-17 16:52:28.213000+00:00,33.88,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s6,2021-07-17 17:23:15.881000+00:00
+852,P7,2021-09-21 17:05:11.098999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d5,2021-09-21 18:17:08.367000+00:00
+853,P6,2021-08-21 19:51:32.884999+00:00,61.6,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d4,2021-08-21 20:25:32.540999+00:00
+854,P2,2021-08-11 18:52:50.214999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d19,2021-08-11 19:42:03.095000+00:00
+855,P2,2021-06-30 13:17:56.852999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b6,2021-06-30 14:50:37.969000+00:00
+856,P3,2021-09-01 17:30:56.710999+00:00,12,testCafeAdmin,testCafe,cash,admin, ESPRESSO,1,b8,2021-09-01 17:57:03.663000+00:00
+857,P6,2021-07-17 15:53:24.311000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d6,2021-07-17 16:49:01.484999+00:00
+858,P6,2021-08-30 15:56:40.953000+00:00,32,testCafeAdmin,testCafe,cash,admin,Cappucino,2,d7,2021-08-30 17:16:11.040999+00:00
+859,P1,2021-08-27 15:39:15.147000+00:00,17.1,testCafeAdmin,testCafe,cash,admin,Kivi,1,b8,2021-08-27 16:18:49.510999+00:00
+860,P7,2021-09-25 14:26:58.282000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d4,2021-09-25 15:20:35.318000+00:00
+861,P1,2021-09-04 14:25:37.438999+00:00,8.5,testCafeAdmin,testCafe,card,admin,Çay,2,d5,2021-09-04 14:37:59.407999+00:00
+862,P1,2021-09-10 16:27:17.585000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,s1,2021-09-10 17:13:16.520999+00:00
+863,P1,2021-07-24 18:28:01.973999+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,d8,2021-07-24 19:01:47.163000+00:00
+864,P6,2021-08-01 15:09:55.190000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,s7,2021-08-01 15:42:21.496999+00:00
+865,P3,2021-09-12 15:18:51.759999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b7,2021-09-12 15:18:51.779000+00:00
+866,P1,2021-08-06 18:03:58.904999+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d10,2021-08-06 18:38:36.538000+00:00
+867,P5,2021-07-30 17:13:50.755000+00:00,33,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d5,2021-07-30 17:35:40.334000+00:00
+868,P6,2021-08-05 17:41:51.641000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,b1,2021-08-05 18:26:00.690999+00:00
+869,P1,2021-07-15 17:37:17.838999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-15 18:05:18.615000+00:00
+870,P5,2021-08-04 17:13:48.880000+00:00,26.4,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d4,2021-08-04 17:57:44.931999+00:00
+871,P3,2021-09-11 14:56:05.885999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,d16,2021-09-11 15:16:25.842000+00:00
+872,P5,2021-07-14 17:48:55.812000+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d5,2021-07-14 18:53:02.786999+00:00
+873,P5,2021-06-26 12:33:26.907999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b5,2021-06-26 16:49:38.382999+00:00
+874,P7,2021-09-23 18:28:09.878999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b6,2021-09-23 18:39:08.776000+00:00
+875,P5,2021-07-14 14:17:52.269000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,s7,2021-07-14 14:45:45.815999+00:00
+876,P1,2021-08-22 12:44:52.937999+00:00,32.2,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s1,2021-08-22 13:50:19.288000+00:00
+877,P5,2021-08-01 17:16:28.237999+00:00,34.5,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d4,2021-08-01 17:41:08.872999+00:00
+878,P3,2021-09-13 12:15:30.789999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-09-13 12:41:14.630000+00:00
+879,P6,2021-07-31 13:46:53.829999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b7,2021-07-31 14:31:04.142999+00:00
+880,P7,2021-09-20 14:10:55.053999+00:00,13.05,testCafeAdmin,testCafe,card,admin,SU,3,s4,2021-09-20 14:36:02.421000+00:00
+881,P3,2021-09-10 10:02:09.210000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,b6,2021-09-10 11:48:55.049000+00:00
+882,P1,2021-07-24 19:32:55.624000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,b8,2021-07-24 20:12:45.382999+00:00
+883,P5,2021-06-25 14:59:38.066999+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d4,2021-06-25 16:22:16.201999+00:00
+884,P5,2021-07-08 18:01:55.273000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,b6,2021-07-08 18:29:39.816999+00:00
+885,P6,2021-08-09 15:05:13.108999+00:00,4.4,testCafeAdmin,testCafe,cash,admin,SU,1,d1,2021-08-09 15:23:41.637000+00:00
+886,P1,2021-08-26 12:18:19.138000+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s4,2021-08-26 12:46:30.454999+00:00
+887,P5,2021-07-28 15:30:02.539000+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b1,2021-07-28 20:19:35.641000+00:00
+888,P5,2021-07-16 19:31:34.398000+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,s7,2021-07-16 20:28:03.571000+00:00
+889,P3,2021-09-11 11:20:42.305999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d9,2021-09-11 11:38:01.394999+00:00
+890,P1,2021-10-03 19:14:19.111999+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d19,2021-10-03 19:38:52.028000+00:00
+891,P1,2021-07-18 11:31:28.214999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d6,2021-07-18 20:47:13.196000+00:00
+892,P1,2021-09-04 14:17:37.247999+00:00,15.4,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b6,2021-09-04 15:01:56.648000+00:00
+893,P5,2021-08-18 08:16:18.976000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b7,2021-08-18 08:29:18.207999+00:00
+894,P5,2021-06-26 10:21:16.911999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d8,2021-06-26 12:58:21.200000+00:00
+895,P7,2021-09-19 17:26:17.255000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d1,2021-09-19 18:22:31.867000+00:00
+896,P6,2021-08-01 15:21:38.174999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,s7,2021-08-01 15:42:21.496999+00:00
+897,P1,2021-08-19 10:27:11.582000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b6,2021-08-19 10:41:48.051000+00:00
+898,P1,2021-08-13 17:03:42.230999+00:00,48.384,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,3,d10,2021-08-13 18:00:16.046000+00:00
+899,P1,2021-08-20 18:15:57.062000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-08-20 18:25:43.473999+00:00
+900,P7,2021-09-30 12:59:43.129000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s1,2021-09-30 13:31:50.348000+00:00
+901,P5,2021-07-11 16:41:46.029000+00:00,29.4,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-07-11 17:50:39.296999+00:00
+902,P7,2021-09-17 15:27:18.843000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d17,2021-09-17 16:25:18.103000+00:00
+903,P1,2021-10-03 13:13:52.987000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b8,2021-10-03 13:33:38.226000+00:00
+904,P7,2021-09-28 19:44:16.226000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-09-28 19:59:46.693000+00:00
+905,P7,2021-09-17 19:44:16.164000+00:00,16.008,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d16,2021-09-17 20:11:48.457000+00:00
+906,P2,2021-07-15 10:59:47.937000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,a0,2021-07-15 11:01:40.144999+00:00
+907,P3,2021-09-11 17:09:35.838000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s1,2021-09-11 17:24:40.190999+00:00
+908,P6,2021-08-29 18:50:14.111000+00:00,30.59,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-08-29 19:16:13.187000+00:00
+909,P1,2021-08-08 12:36:47.369999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d1,2021-08-08 13:07:08.839999+00:00
+910,P1,2021-08-22 16:00:01.348999+00:00,57.96,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d19,2021-08-22 17:04:21.259000+00:00
+911,P1,2021-07-23 12:16:14.867000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b2,2021-07-23 12:26:16.260999+00:00
+912,P5,2021-07-26 19:59:57.071000+00:00,13.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d3,2021-07-26 20:42:56.427000+00:00
+913,P6,2021-08-27 17:17:19.086999+00:00,17.8613262,testCafeAdmin,testCafe,card,admin,Limonata,1,d17,2021-08-27 19:43:13.401999+00:00
+914,P5,2021-07-02 19:53:41.559999+00:00,48.6,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,3,s7,2021-07-02 19:58:46.319999+00:00
+915,P3,2021-09-11 15:35:39.954999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d11,2021-09-11 15:48:36.525000+00:00
+916,P5,2021-07-18 17:16:19.522000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d3,2021-07-18 17:53:01.321000+00:00
+917,P6,2021-08-23 17:11:18.158999+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,d2,2021-08-23 17:31:13.799999+00:00
+918,P2,2021-08-09 16:23:08.795000+00:00,15.84,testCafeAdmin,testCafe,cash,admin,Limonata,1,d5,2021-08-09 17:19:08.454999+00:00
+919,P1,2021-09-14 17:01:58.619000+00:00,20.7,testCafeAdmin,testCafe,cash,admin,Limonata,1,d4,2021-09-14 17:21:34.173000+00:00
+920,P6,2021-07-24 16:59:07.614000+00:00,50.16,testCafeAdmin,testCafe,cash,admin,Cappucino,3,d8,2021-07-24 18:00:36.023000+00:00
+921,P6,2021-08-26 18:29:55.400000+00:00,19.55,testCafeAdmin,testCafe,card,admin,SU,4,d1,2021-08-26 19:37:41.874000+00:00
+922,P3,2021-09-02 16:36:17.657999+00:00,15,testCafeAdmin,testCafe,card,admin,Çay,3,b8,2021-09-02 17:23:44.381999+00:00
+923,P6,2021-08-05 15:17:56.914000+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,b8,2021-08-05 15:39:59.099999+00:00
+924,P1,2021-07-21 17:23:39.713000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d15,2021-07-21 17:37:40.174000+00:00
+925,P1,2021-08-17 14:00:02.088999+00:00,16.90704154,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s7,2021-08-17 16:31:38.082000+00:00
+926,P1,2021-09-10 13:47:33.015000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d13,2021-09-10 14:09:02.239000+00:00
+927,P1,2021-08-22 16:10:16.979000+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d1,2021-08-22 16:43:24.017999+00:00
+928,P1,2021-07-24 15:38:43.753999+00:00,33,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d7,2021-07-24 16:12:00.227999+00:00
+929,P5,2021-08-14 16:59:26.553999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d10,2021-08-14 18:14:38.005000+00:00
+930,P2,2021-08-10 17:44:09.440999+00:00,4,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-08-10 18:09:15.546000+00:00
+931,P3,2021-09-13 17:12:06.687999+00:00,30.015,testCafeAdmin,testCafe,card,admin,Oralet,1,d14,2021-09-13 17:46:00.115000+00:00
+932,P1,2021-07-27 13:19:42.279000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-27 13:22:49.802000+00:00
+933,P3,2021-09-07 18:03:34.494999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-09-07 18:59:32.884000+00:00
+934,P6,2021-08-30 18:50:00.588000+00:00,28.98,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s5,2021-08-30 19:07:28.493999+00:00
+935,P7,2021-10-10 13:47:42.490999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b8,2021-10-10 14:31:11.701000+00:00
+936,P6,2021-08-27 17:10:59.657999+00:00,36.8,testCafeAdmin,testCafe,cash,admin,Cappucino,2,d8,2021-08-27 17:54:36.516999+00:00
+937,P6,2021-08-23 17:42:13.713000+00:00,16.56,testCafeAdmin,testCafe,cash,admin,Limonata,1,s1,2021-08-23 18:50:29.279000+00:00
+938,P1,2021-08-20 16:38:22.213000+00:00,14.08,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d17,2021-08-20 17:28:46.438999+00:00
+939,P1,2021-09-10 18:55:55.740000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d11,2021-09-10 19:15:03.581000+00:00
+940,P6,2021-08-24 19:20:47.213000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d6,2021-08-24 19:53:55.230999+00:00
+941,P5,2021-07-10 17:33:46.250999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d2,2021-07-10 18:08:27.980999+00:00
+942,P7,2021-09-16 16:07:09.719000+00:00,11.9,testCafeAdmin,testCafe,card,admin,SODA,2,d16,2021-09-16 16:30:27.700000+00:00
+943,P6,2021-08-27 15:54:35.687000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s3,2021-08-27 16:11:48.220000+00:00
+944,P6,2021-08-26 18:42:51.023999+00:00,18.216,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d10,2021-08-26 19:22:16.733000+00:00
+945,P6,2021-08-01 19:03:39.726000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b5,2021-08-01 19:17:18.798000+00:00
+946,P1,2021-08-11 12:21:35.901000+00:00,20,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,s7,2021-08-11 13:08:49.210999+00:00
+947,P3,2021-09-07 20:13:43.295000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d1,2021-09-07 20:18:05.296000+00:00
+948,P6,2021-07-25 15:43:41.306999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b1,2021-07-25 16:02:09.842000+00:00
+949,P2,2021-07-14 12:16:25.775000+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s2,2021-07-14 13:09:28.905999+00:00
+950,P1,2021-07-29 16:04:21.144999+00:00,13.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d17,2021-07-29 16:32:50.605000+00:00
+951,P1,2021-08-28 19:13:36.743000+00:00,12.42,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d11,2021-08-28 20:00:34.286000+00:00
+952,P6,2021-08-05 15:09:10.226000+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,s7,2021-08-05 15:35:00.982000+00:00
+953,P3,2021-09-11 19:18:03.951999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-09-11 19:38:57.805000+00:00
+954,P1,2021-08-12 15:47:23.244999+00:00,5.75,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-08-12 15:50:58.647000+00:00
+955,P1,2021-07-21 16:30:20.812000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-07-21 16:56:44.345000+00:00
+956,P6,2021-08-16 17:09:42.315999+00:00,11,testCafeAdmin,testCafe,cash,admin,SU,2,d7,2021-08-16 17:49:54.855999+00:00
+957,P7,2021-09-17 16:06:11.779000+00:00,5.75,testCafeAdmin,testCafe,card,admin,SU,1,d4,2021-09-17 19:06:24.619000+00:00
+958,P6,2021-08-30 17:39:53.591000+00:00,32.384,testCafeAdmin,testCafe,cash,admin,Cappucino,2,d17,2021-08-30 18:17:52.334000+00:00
+959,P1,2021-09-06 18:56:31.687000+00:00,28.98,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d2,2021-09-06 19:09:33.470999+00:00
+960,P1,2021-08-28 16:37:38.595000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s7,2021-08-28 17:16:39.029999+00:00
+961,P7,2021-09-26 16:36:19.950000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d10,2021-09-26 16:45:01.722000+00:00
+962,P1,2021-10-04 16:14:13.912000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-10-04 17:04:43.934000+00:00
+963,P6,2021-08-29 15:44:19.332999+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-08-29 16:39:10.282999+00:00
+964,P7,2021-10-02 14:57:37.831000+00:00,20,testCafeAdmin,testCafe,card,admin,Çay,4,d5,2021-10-02 16:14:38.697000+00:00
+965,P6,2021-08-21 13:45:39.055999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-08-21 14:16:02.255000+00:00
+966,P1,2021-09-06 15:43:45.341000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d17,2021-09-06 16:15:05.621000+00:00
+967,P6,2021-07-24 16:42:46.680999+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d16,2021-07-24 17:25:53.605999+00:00
+968,P6,2021-07-19 18:32:38.957999+00:00,41.8,testCafeAdmin,testCafe,cash,admin,Kivi,2,s7,2021-07-19 19:13:19.338000+00:00
+969,P1,2021-07-27 18:53:28.171999+00:00,11.5,testCafeAdmin,testCafe,cash,admin,SU,2,d4,2021-07-27 20:07:11.111999+00:00
+970,P2,2021-07-03 11:08:51.667999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d8,2021-07-03 11:29:12.773000+00:00
+971,P6,2021-08-07 14:50:49.306999+00:00,30.54975,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d4,2021-08-07 15:20:06.595000+00:00
+972,P5,2021-07-16 16:15:15.375000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,b4,2021-07-16 16:47:05.875000+00:00
+973,P3,2021-09-09 17:28:32.092000+00:00,31.05,testCafeAdmin,testCafe,card,admin,Islak kek,1,b4,2021-09-09 18:02:48.716000+00:00
+974,P7,2021-10-03 14:06:45.713000+00:00,56,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,4,d5,2021-10-03 14:55:20.482000+00:00
+975,P2,2021-08-15 18:37:28.704999+00:00,10.56,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d5,2021-08-15 19:08:24.440999+00:00
+976,P1,2021-07-31 16:46:00.826999+00:00,4.5,testCafeAdmin,testCafe,card,admin,Çay,1,d17,2021-07-31 17:48:09.029000+00:00
+977,P5,2021-07-17 16:34:27.630000+00:00,22,testCafeAdmin,testCafe,card,admin,AROMALI Kivi,1,s3,2021-07-17 17:00:07.298000+00:00
+978,P5,2021-07-10 19:23:33.463999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d13,2021-07-10 19:40:29.135999+00:00
+979,P2,2021-08-11 17:07:17.644000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-08-11 18:04:04.115000+00:00
+980,P2,2021-07-11 12:19:53.684000+00:00,29.4,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-07-11 12:52:17.493000+00:00
+981,P5,2021-08-14 16:29:03.440999+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d7,2021-08-14 16:50:01.559999+00:00
+982,P3,2021-09-09 19:50:57.186000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b8,2021-09-09 20:14:59.654000+00:00
+983,P3,2021-09-08 18:00:17.680000+00:00,33.12,testCafeAdmin,testCafe,card,admin,Cappucino,2,d5,2021-09-08 18:48:12.019000+00:00
+984,P6,2021-08-23 19:14:33.923000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s4,2021-08-23 19:54:09.938999+00:00
+985,P3,2021-09-13 17:45:37.788000+00:00,20,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,s7,2021-09-13 18:39:30.121999+00:00
+986,P1,2021-08-20 18:04:23.470000+00:00,25.08,testCafeAdmin,testCafe,cash,admin,Kivi,1,d16,2021-08-20 18:49:30.575999+00:00
+987,P5,2021-06-26 16:51:34.559000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d6,2021-06-26 18:09:29.720999+00:00
+988,P1,2021-07-29 15:19:24.477999+00:00,26.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s1,2021-07-29 15:49:58.588999+00:00
+989,P1,2021-07-21 15:38:05.601999+00:00,5.555,testCafeAdmin,testCafe,cash,admin,Çay,1,d19,2021-07-21 17:25:17.835999+00:00
+990,P1,2021-07-27 19:30:36.326999+00:00,5.75,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-07-27 20:07:11.111999+00:00
+991,P5,2021-07-04 15:07:48.032999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,s1,2021-07-04 15:26:37.898999+00:00
+992,P1,2021-08-12 12:53:07.420000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,s4,2021-08-12 13:38:13.214999+00:00
+993,P1,2021-07-23 17:31:06.453000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b4,2021-07-23 18:03:10.015000+00:00
+994,P6,2021-08-16 14:03:52.650000+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d6,2021-08-16 15:12:57.832000+00:00
+995,P6,2021-08-09 17:23:39.852999+00:00,22,testCafeAdmin,testCafe,cash,admin,Limonata,1,d19,2021-08-09 17:57:39.437999+00:00
+996,P6,2021-08-16 18:28:59.065999+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s7,2021-08-16 18:57:48.752000+00:00
+997,P2,2021-07-31 10:50:39.647000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-07-31 11:52:51.374000+00:00
+998,P1,2021-09-21 15:59:39.542000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d1,2021-09-21 16:19:14.758000+00:00
+999,P3,2021-09-01 15:38:41.880000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d4,2021-09-01 17:15:48.688999+00:00
+1000,P1,2021-09-09 13:40:18.476999+00:00,23.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s4,2021-09-09 14:19:59.102999+00:00
+1001,P1,2021-09-15 18:31:07.082000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,d4,2021-09-15 19:02:19.254000+00:00
+1002,P1,2021-08-08 18:59:30.673000+00:00,60,testCafeAdmin,testCafe,card,admin,Islak kek,2,d7,2021-08-08 19:31:45.756999+00:00
+1003,P7,2021-09-25 18:08:37.971999+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-09-25 18:22:11.228000+00:00
+1004,P5,2021-08-08 14:50:21.542000+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d4,2021-08-08 15:42:57.772000+00:00
+1005,P7,2021-09-17 16:06:28.822999+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,d14,2021-09-17 16:39:03.860000+00:00
+1006,P7,2021-10-02 17:22:34.503999+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,d10,2021-10-02 18:25:34.384000+00:00
+1007,P1,2021-08-05 15:39:03.415999+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-08-05 18:13:40.617000+00:00
+1008,P2,2021-08-14 13:57:15.243999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s6,2021-08-14 14:15:47.928999+00:00
+1009,P1,2021-10-08 15:08:10.674000+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d8,2021-10-08 15:55:40.872000+00:00
+1010,P6,2021-08-28 13:12:26.947999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-08-28 13:44:36.743999+00:00
+1011,P6,2021-08-21 18:17:38.148999+00:00,59.4,testCafeAdmin,testCafe,cash,admin,Limonata,3,d10,2021-08-21 18:53:27.380000+00:00
+1012,P1,2021-09-14 12:53:48.324000+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d11,2021-09-14 14:35:08.180000+00:00
+1013,P5,2021-07-30 17:21:59.594000+00:00,39.6,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,2,d4,2021-07-30 18:55:20.671000+00:00
+1014,P1,2021-08-25 19:41:27.006999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,Çay,1,d19,2021-08-25 20:06:26.759999+00:00
+1015,P6,2021-08-24 14:16:00.348999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b6,2021-08-24 14:49:04.496000+00:00
+1016,P2,2021-08-10 17:30:05.282999+00:00,19,testCafeAdmin,testCafe,cash,admin,Kivi,1,s1,2021-08-10 18:17:48.627000+00:00
+1017,P2,2021-08-10 16:59:57.040999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d10,2021-08-10 17:57:43.864000+00:00
+1018,P5,2021-08-16 12:56:44.927000+00:00,15,testCafeAdmin,testCafe,cash,admin,Çay,3,s7,2021-08-16 12:58:25.966000+00:00
+1019,P6,2021-08-07 18:35:44.714999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,a0,2021-08-07 18:37:10.786000+00:00
+1020,P1,2021-07-18 15:21:41.279999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b7,2021-07-18 16:33:10.892999+00:00
+1021,P1,2021-09-11 14:39:56.730000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b6,2021-09-11 15:53:38.404999+00:00
+1022,P6,2021-08-27 18:02:20.012000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d2,2021-08-27 18:54:44.963999+00:00
+1023,P6,2021-08-16 19:07:13.565999+00:00,24.64,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d10,2021-08-16 19:37:46.240000+00:00
+1024,P3,2021-09-11 17:11:37.105000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d5,2021-09-11 17:22:43.236000+00:00
+1025,P1,2021-08-17 13:05:42.085999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s7,2021-08-17 13:42:34.568000+00:00
+1026,P5,2021-08-23 08:30:55.917000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,s7,2021-08-23 08:51:39.361999+00:00
+1027,P1,2021-08-19 10:24:50.561000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,a0,2021-08-19 10:23:46.012000+00:00
+1028,P1,2021-07-21 19:53:34.207999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d6,2021-07-21 20:08:47.467999+00:00
+1029,P1,2021-07-13 16:29:05.002000+00:00,37.8,testCafeAdmin,testCafe,cash,admin,Limonata,2,b1,2021-07-13 17:19:24.632999+00:00
+1030,P2,2021-08-11 18:14:55.138999+00:00,60,testCafeAdmin,testCafe,card,admin,Oralet,2,a0,2021-08-11 18:22:16.134000+00:00
+1031,P7,2021-09-17 18:44:20.703999+00:00,30,testCafeAdmin,testCafe,card,admin,Islak kek,1,d5,2021-09-17 19:33:20.243000+00:00
+1032,P6,2021-07-25 12:46:47.480000+00:00,32,testCafeAdmin,testCafe,cash,admin,Cappucino,2,s1,2021-07-25 13:04:45.201999+00:00
+1033,P3,2021-09-02 16:11:31.118000+00:00,16.192,testCafeAdmin,testCafe,card,admin,Cappucino,1,d11,2021-09-02 16:37:16.953000+00:00
+1034,P5,2021-06-28 12:26:31.994999+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d2,2021-06-28 14:15:39.052999+00:00
+1035,P2,2021-06-30 13:14:02.654000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b6,2021-06-30 14:50:37.969000+00:00
+1036,P1,2021-07-21 10:38:22.786999+00:00,20,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,d8,2021-07-21 11:31:26.066999+00:00
+1037,P2,2021-07-17 10:10:58.293999+00:00,48,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,4,s5,2021-07-17 10:21:46.750999+00:00
+1038,P1,2021-09-10 15:14:13.539999+00:00,14.49,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-09-10 16:17:16.017999+00:00
+1039,P1,2021-07-29 15:07:31.345999+00:00,33,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d5,2021-07-29 15:52:03.549000+00:00
+1040,P7,2021-09-25 17:55:05.265000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d6,2021-09-25 18:40:50.529000+00:00
+1041,P3,2021-09-03 13:12:08.233000+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,s6,2021-09-03 14:05:25.319999+00:00
+1042,P6,2021-08-09 17:08:03.191999+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,d8,2021-08-09 17:34:45.029999+00:00
+1043,P1,2021-09-04 18:17:12.936000+00:00,31.05,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b4,2021-09-04 18:59:18.181999+00:00
+1044,P1,2021-07-13 15:26:42.088000+00:00,31.5,testCafeAdmin,testCafe,cash,admin,Oralet,1,s1,2021-07-13 16:12:31.339999+00:00
+1045,P6,2021-08-23 16:34:26.812000+00:00,30,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,2,d15,2021-08-23 17:06:05.085999+00:00
+1046,P7,2021-09-20 11:42:47.335000+00:00,8.5,testCafeAdmin,testCafe,card,admin,Çay,2,b6,2021-09-20 12:06:28.253000+00:00
+1047,P1,2021-07-30 16:50:19.950999+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d3,2021-07-30 17:19:04.910000+00:00
+1048,P1,2021-08-08 16:59:01.858000+00:00,27.6,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d10,2021-08-08 18:04:32.332999+00:00
+1049,P1,2021-08-08 17:37:38.125999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d10,2021-08-08 18:04:32.332999+00:00
+1050,P1,2021-09-09 14:49:48.065000+00:00,69,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d19,2021-09-09 15:37:30.703000+00:00
+1051,P1,2021-07-15 17:34:18.157000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-07-15 18:52:15.076999+00:00
+1052,P2,2021-08-14 13:33:55.766000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,d5,2021-08-14 14:13:19.357000+00:00
+1053,P6,2021-08-16 15:16:04.494999+00:00,15,testCafeAdmin,testCafe,cash,admin,Filtre Kahve,1,d4,2021-08-16 16:31:02.161000+00:00
+1054,P6,2021-08-23 16:48:23.948999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b4,2021-08-23 16:56:55.822000+00:00
+1055,P3,2021-09-08 13:26:40.403000+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s3,2021-09-08 13:52:36.553999+00:00
+1056,P7,2021-09-17 19:47:26.821000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,2,d6,2021-09-17 20:16:51.278000+00:00
+1057,P7,2021-09-25 15:34:42.272000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d11,2021-09-25 15:51:57.597000+00:00
+1058,P2,2021-07-11 11:56:01.367000+00:00,8.5,testCafeAdmin,testCafe,card,admin,Çay,2,d10,2021-07-11 12:21:26.523000+00:00
+1059,P7,2021-09-26 16:30:10.210000+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d1,2021-09-26 16:57:33.486000+00:00
+1060,P1,2021-08-22 17:59:01.773999+00:00,22.264,testCafeAdmin,testCafe,cash,admin,Limonata,1,d8,2021-08-22 18:27:00.352999+00:00
+1061,P6,2021-08-17 18:27:32.914000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d8,2021-08-17 18:51:00.592999+00:00
+1062,P1,2021-07-23 17:25:18.224999+00:00,66,testCafeAdmin,testCafe,card,admin,Limonata,3,s7,2021-07-23 18:01:43.743999+00:00
+1063,P1,2021-08-13 15:27:56.834000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,s2,2021-08-13 16:06:33.450999+00:00
+1064,P5,2021-07-12 17:50:01.812000+00:00,29.4,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-07-12 19:07:15.204999+00:00
+1065,P7,2021-09-16 19:03:52.078000+00:00,15,testCafeAdmin,testCafe,card,admin,Filtre Kahve,1,d19,2021-09-16 19:37:08.513000+00:00
+1066,P1,2021-08-05 11:55:29.737999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s6,2021-08-05 12:28:25.171999+00:00
+1067,P5,2021-06-26 17:27:13.302000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s1,2021-06-26 18:50:18.046000+00:00
+1068,P6,2021-08-09 17:12:29.549000+00:00,11.04,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d4,2021-08-09 18:01:15.415999+00:00
+1069,P1,2021-08-18 13:38:11.200000+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,d6,2021-08-18 14:15:47.124000+00:00
+1070,P6,2021-08-09 17:23:03.789000+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d19,2021-08-09 17:57:39.437999+00:00
+1071,P7,2021-09-27 19:13:44.299999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d19,2021-09-27 19:53:42.655000+00:00
+1072,P6,2021-08-24 16:08:36.187000+00:00,22,testCafeAdmin,testCafe,card,admin,AROMALI Kivi,1,d10,2021-08-24 17:50:27.595000+00:00
+1073,P7,2021-09-16 16:07:45.822999+00:00,24.225,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d2,2021-09-16 16:32:39.659000+00:00
+1074,P6,2021-07-19 15:17:51.246000+00:00,4.25,testCafeAdmin,testCafe,cash,admin,SU,1,b8,2021-07-19 15:43:11.460000+00:00
+1075,P5,2021-07-03 17:04:00.838999+00:00,25,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d10,2021-07-03 17:53:25.628000+00:00
+1076,P1,2021-07-29 15:40:03.980000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d6,2021-07-29 16:02:17.848000+00:00
+1077,P2,2021-07-08 11:57:13.785000+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,s7,2021-07-08 12:14:31.809999+00:00
+1078,P1,2021-08-20 18:02:32.627000+00:00,16.56,testCafeAdmin,testCafe,card,admin,Cappucino,1,d7,2021-08-20 18:39:44.303999+00:00
+1079,P7,2021-10-12 17:40:49.476000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s7,2021-10-12 18:05:07.564000+00:00
+1080,P6,2021-08-27 17:50:17.158999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d11,2021-08-27 18:16:02.446000+00:00
+1081,P2,2021-08-15 16:52:05.611999+00:00,26.88,testCafeAdmin,testCafe,cash,admin,Oralet,1,d10,2021-08-15 17:26:22.676000+00:00
+1082,P3,2021-09-08 17:22:56.078000+00:00,60,testCafeAdmin,testCafe,card,admin,CheeseCake,2,d8,2021-09-08 17:56:28.188999+00:00
+1083,P7,2021-09-28 17:12:07.959000+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d8,2021-09-28 17:44:09.592000+00:00
+1084,P3,2021-09-11 11:13:08.727999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d1,2021-09-11 11:35:21.674999+00:00
+1085,P1,2021-09-04 15:12:02.219000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d3,2021-09-04 15:51:50.503000+00:00
+1086,P7,2021-09-20 15:16:42.749000+00:00,7.0035,testCafeAdmin,testCafe,cash,admin,SODA,1,s2,2021-09-20 16:21:25.215000+00:00
+1087,P1,2021-08-03 19:39:19.697999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d7,2021-08-03 19:54:27.759000+00:00
+1088,P3,2021-09-07 16:42:34.855000+00:00,19.9778,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,d17,2021-09-07 17:18:33.605999+00:00
+1089,P1,2021-07-15 17:36:08.066999+00:00,19.8,testCafeAdmin,testCafe,cash,admin,Limonata,1,d2,2021-07-15 18:15:02.012000+00:00
+1090,P7,2021-09-30 13:56:28.762000+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b8,2021-09-30 14:45:10.594000+00:00
+1091,P6,2021-08-30 15:45:23.743000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,a0,2021-08-30 15:48:11.934999+00:00
+1092,P6,2021-08-26 18:56:45.872999+00:00,27.692,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s3,2021-08-26 19:21:03.361999+00:00
+1093,P5,2021-08-04 13:42:35.203000+00:00,25.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s5,2021-08-04 14:09:01.742000+00:00
+1094,P1,2021-08-22 17:38:22.285000+00:00,12.42,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d19,2021-08-22 18:19:53.181999+00:00
+1095,P1,2021-09-21 16:04:33.816999+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d3,2021-09-21 16:26:57.584000+00:00
+1096,P6,2021-08-24 18:48:12.326999+00:00,56,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,d17,2021-08-24 19:15:36.762000+00:00
+1097,P5,2021-06-26 17:17:33.275000+00:00,27,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,b7,2021-06-26 18:53:13.914999+00:00
+1098,P7,2021-09-19 17:53:24.726000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d6,2021-09-19 18:15:50.457000+00:00
+1099,P7,2021-09-23 17:08:21.880000+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,b6,2021-09-23 18:39:08.776000+00:00
+1100,P1,2021-08-27 19:12:27.109999+00:00,19.33495,testCafeAdmin,testCafe,cash,admin,Limonata,1,d16,2021-08-27 19:54:18.792999+00:00
+1101,P1,2021-07-13 18:55:17.354000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d12,2021-07-13 20:19:39.115999+00:00
+1102,P1,2021-08-20 18:11:12.155999+00:00,16,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d14,2021-08-20 18:47:50.108999+00:00
+1103,P7,2021-09-26 15:03:43.199000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d9,2021-09-26 15:50:42.250000+00:00
+1104,P6,2021-08-29 16:36:02.611000+00:00,6,testCafeAdmin,testCafe,cash,admin,Çay,2,d14,2021-08-29 17:16:34.683000+00:00
+1105,P5,2021-08-04 17:14:20.739000+00:00,5.5,testCafeAdmin,testCafe,card,admin,Çay,1,s1,2021-08-04 18:09:01.012000+00:00
+1106,P7,2021-09-25 14:40:41.013999+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d6,2021-09-25 15:02:43.346000+00:00
+1107,P6,2021-08-31 17:52:07.575999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-08-31 18:20:32.114000+00:00
+1108,P6,2021-08-30 17:44:08.345999+00:00,20.24,testCafeAdmin,testCafe,card,admin,SU,4,d11,2021-08-30 17:58:37.489000+00:00
+1109,P6,2021-08-21 17:16:56.901999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d15,2021-08-21 17:57:58.868000+00:00
+1110,P1,2021-09-14 12:53:34.689000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d11,2021-09-14 14:35:08.180000+00:00
+1111,P6,2021-07-31 18:22:50.321000+00:00,27,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d11,2021-07-31 20:39:49.474999+00:00
+1112,P1,2021-08-14 17:54:44.520999+00:00,11.88,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-08-14 18:25:49.635999+00:00
+1113,P2,2021-08-11 16:25:26.954999+00:00,26.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d8,2021-08-11 16:50:58.473999+00:00
+1114,P7,2021-09-22 18:02:40.575000+00:00,30,testCafeAdmin,testCafe,cash,admin,Americano,2,d4,2021-09-22 18:49:34.382000+00:00
+1115,P5,2021-08-09 10:04:57.033999+00:00,12,testCafeAdmin,testCafe,cash,admin, ESPRESSO,1,b6,2021-08-09 11:05:44.361999+00:00
+1116,P5,2021-07-21 13:52:13.756999+00:00,3,testCafeAdmin,testCafe,cash,admin,Çay,1,d5,2021-07-21 14:42:43.183000+00:00
+1117,P6,2021-09-05 16:02:13.187000+00:00,5.175,testCafeAdmin,testCafe,cash,admin,SU,1,d2,2021-09-05 17:37:10.740999+00:00
+1118,P3,2021-09-13 19:30:03.562999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b4,2021-09-13 19:51:32.872999+00:00
+1119,P1,2021-08-20 19:21:02.111000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d5,2021-08-20 19:44:09.869999+00:00
+1120,P6,2021-07-19 18:21:37.957000+00:00,72,testCafeAdmin,testCafe,cash,admin,Limonata,4,d2,2021-07-19 19:10:52.099999+00:00
+1121,P3,2021-09-11 14:59:27.108999+00:00,0,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s6,2021-09-11 15:39:06.434000+00:00
+1122,P7,2021-10-04 16:59:16.078999+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,d12,2021-10-04 17:24:22.205000+00:00
+1123,P5,2021-07-14 14:43:07.247999+00:00,5.95,testCafeAdmin,testCafe,cash,admin,SODA,1,d4,2021-07-14 15:06:24.556999+00:00
+1124,P5,2021-07-09 16:32:18.875000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d5,2021-07-09 20:15:24.009999+00:00
+1125,P6,2021-08-26 11:12:03.687000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s3,2021-08-26 11:43:12.845000+00:00
+1126,P5,2021-07-09 14:48:14.813999+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,b4,2021-07-09 15:36:13.542999+00:00
+1127,P6,2021-08-21 15:47:49.604000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,b4,2021-08-21 16:52:07.319999+00:00
+1128,P1,2021-08-29 17:35:23.302000+00:00,10.35,testCafeAdmin,testCafe,cash,admin,SU,2,d4,2021-08-29 17:57:26.676000+00:00
+1129,P6,2021-09-03 15:07:43.815000+00:00,28,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,d1,2021-09-03 15:43:56.615999+00:00
+1130,P6,2021-08-05 18:02:07.239000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d12,2021-08-05 19:14:39.289999+00:00
+1131,P5,2021-07-30 18:03:30.585000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,s10,2021-07-30 20:39:47.446000+00:00
+1132,P1,2021-07-13 15:26:27.519999+00:00,29.4,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s1,2021-07-13 16:12:31.339999+00:00
+1133,P5,2021-07-11 17:30:06.180999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d19,2021-07-11 18:02:18.677000+00:00
+1134,P3,2021-09-02 11:34:45.759000+00:00,10,testCafeAdmin,testCafe,cash,admin,SU,2,d13,2021-09-02 11:35:53.066999+00:00
+1135,P6,2021-08-09 18:40:20.851000+00:00,56,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,a0,2021-08-09 18:45:58.220999+00:00
+1136,P7,2021-09-19 19:00:32.934000+00:00,30,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d6,2021-09-19 19:26:13.892000+00:00
+1137,P1,2021-09-01 18:08:14.319000+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,d4,2021-09-01 18:25:02.513999+00:00
+1138,P1,2021-07-31 16:51:25.276999+00:00,4.5,testCafeAdmin,testCafe,card,admin,Çay,1,d17,2021-07-31 17:48:09.029000+00:00
+1139,P7,2021-09-26 15:51:59.917000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d18,2021-09-26 16:14:43.983000+00:00
+1140,P1,2021-09-11 12:38:49.157000+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d2,2021-09-11 13:57:32.831000+00:00
+1141,P5,2021-07-17 16:43:11.637000+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d5,2021-07-17 17:09:49.976000+00:00
+1142,P3,2021-09-11 15:18:57.460000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d7,2021-09-11 15:58:05.496000+00:00
+1143,P7,2021-09-17 19:06:28.312000+00:00,19.78,testCafeAdmin,testCafe,card,admin,Limonata,1,b4,2021-09-17 19:21:04.151000+00:00
+1144,P5,2021-07-10 15:39:19.005000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d5,2021-07-10 16:09:49.713000+00:00
+1145,P7,2021-09-20 16:43:17.538000+00:00,5.0025,testCafeAdmin,testCafe,card,admin,SU,1,d5,2021-09-20 17:37:34.957000+00:00
+1146,P5,2021-08-16 12:21:40.118000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d1,2021-08-16 12:44:41.234999+00:00
+1147,P2,2021-07-15 10:46:22.453999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b1,2021-07-15 11:14:10.983999+00:00
+1148,P1,2021-07-13 12:20:06.605000+00:00,18,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,s4,2021-07-13 12:59:37.246999+00:00
+1149,P1,2021-07-23 17:14:36.233999+00:00,12,testCafeAdmin,testCafe,card,admin, ESPRESSO,1,d17,2021-07-23 17:54:52.382999+00:00
+1150,P3,2021-09-01 17:50:24.849999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d19,2021-09-01 18:25:13.783999+00:00
+1151,P6,2021-07-24 17:20:33.135999+00:00,20.79,testCafeAdmin,testCafe,cash,admin,Limonata,1,d1,2021-07-24 19:13:33.658999+00:00
+1152,P1,2021-08-31 16:46:46.420000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d1,2021-08-31 17:43:16.596999+00:00
+1153,P7,2021-10-11 14:58:05.634000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b8,2021-10-11 16:07:18.816000+00:00
+1154,P2,2021-08-10 18:13:36.632999+00:00,17.25,testCafeAdmin,testCafe,cash,admin,SU,3,d5,2021-08-10 18:43:15.117000+00:00
+1155,P5,2021-06-25 15:33:18.285000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d16,2021-06-25 17:08:16.796000+00:00
+1156,P1,2021-08-19 13:22:18.746999+00:00,14.72,testCafeAdmin,testCafe,cash,admin,Cappucino,1,s7,2021-08-19 13:46:06.490999+00:00
+1157,P2,2021-08-08 11:38:50.690999+00:00,35.2,testCafeAdmin,testCafe,cash,admin,Cappucino,2,b7,2021-08-08 12:19:33.023000+00:00
+1158,P1,2021-09-06 15:34:48.338999+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d7,2021-09-06 16:00:35.762000+00:00
+1159,P6,2021-08-24 17:47:12.644000+00:00,5.5,testCafeAdmin,testCafe,card,admin,SU,1,d10,2021-08-24 17:50:27.595000+00:00
+1160,P1,2021-09-21 15:29:26.130000+00:00,15.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d4,2021-09-21 15:43:00.816000+00:00
+1161,P6,2021-08-16 16:59:51.920000+00:00,12.138,testCafeAdmin,testCafe,cash,admin,Americano,1,b6,2021-08-16 17:20:58.819999+00:00
+1162,P7,2021-09-28 15:16:00.240999+00:00,8.5,testCafeAdmin,testCafe,cash,admin,Çay,2,d4,2021-09-28 15:31:24.690000+00:00
+1163,P6,2021-08-01 13:04:35.042999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-08-01 14:28:50.999000+00:00
+1164,P1,2021-08-22 17:54:14.312999+00:00,16.56,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d4,2021-08-22 18:15:28.875000+00:00
+1165,P1,2021-09-27 12:27:17.747999+00:00,11.9,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d16,2021-09-27 12:55:10.807000+00:00
+1166,P1,2021-08-03 17:22:47.128000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d6,2021-08-03 17:56:52.434000+00:00
+1167,P7,2021-10-09 13:39:09.947000+00:00,28,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d2,2021-10-09 14:00:58.563000+00:00
+1168,P7,2021-09-29 17:59:45.282000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,b8,2021-09-29 18:30:03.308000+00:00
+1169,P3,2021-09-08 18:00:21.364000+00:00,20.7,testCafeAdmin,testCafe,card,admin,Limonata,1,d5,2021-09-08 18:48:12.019000+00:00
+1170,P5,2021-08-16 12:21:46.219000+00:00,15,testCafeAdmin,testCafe,card,admin,SU,3,d1,2021-08-16 12:44:41.234999+00:00
+1171,P2,2021-07-19 10:07:02.459000+00:00,11.9,testCafeAdmin,testCafe,cash,admin,SODA,2,d10,2021-07-19 10:49:35.394999+00:00
+1172,P6,2021-08-28 16:04:56.776000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d17,2021-08-28 17:37:21.630000+00:00
+1173,P6,2021-07-19 14:33:33.417000+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d4,2021-07-19 15:00:07.769999+00:00
+1174,P1,2021-07-31 17:26:15.907000+00:00,5.75,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-07-31 18:11:19.099999+00:00
+1175,P1,2021-08-13 16:01:13.016999+00:00,60,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,2,d16,2021-08-13 17:41:57.568000+00:00
+1176,P5,2021-08-20 13:34:36.391999+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b1,2021-08-20 13:55:16.207000+00:00
+1177,P7,2021-09-30 13:27:32.324000+00:00,14,testCafeAdmin,testCafe,cash,admin,SODA,2,d4,2021-09-30 13:38:32.093000+00:00
+1178,P5,2021-07-17 18:01:59.753999+00:00,36,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,3,b8,2021-07-17 18:36:07.775000+00:00
+1179,P3,2021-09-07 14:35:23.510999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d13,2021-09-07 17:01:47.173000+00:00
+1180,P5,2021-08-02 13:53:24.180000+00:00,20.9,testCafeAdmin,testCafe,cash,admin,AROMALI Kivi,1,s6,2021-08-02 14:52:06.220000+00:00
+1181,P7,2021-09-17 16:34:16.304000+00:00,59.34,testCafeAdmin,testCafe,cash,admin,CheeseCake,2,s2,2021-09-17 16:56:33.236000+00:00
+1182,P1,2021-07-17 13:48:56.121999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d16,2021-07-17 14:23:16.079999+00:00
+1183,P6,2021-08-03 14:57:45.779000+00:00,33,testCafeAdmin,testCafe,card,admin,Oralet,1,s6,2021-08-03 15:34:15.361000+00:00
+1184,P5,2021-07-03 16:06:14.414000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d4,2021-07-03 16:09:51.457000+00:00
+1185,P3,2021-09-13 16:18:24.002000+00:00,19.78,testCafeAdmin,testCafe,cash,admin,Limonata,1,b4,2021-09-13 16:37:55.687999+00:00
+1186,P7,2021-09-23 12:13:54.950000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d12,2021-09-23 12:19:15.374000+00:00
+1187,P7,2021-09-16 14:01:35.390000+00:00,30.36,testCafeAdmin,testCafe,card,admin,Islak kek,1,b4,2021-09-16 14:22:42.001000+00:00
+1188,P1,2021-07-24 18:39:49.759999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d11,2021-07-24 20:11:10.414000+00:00
+1189,P5,2021-07-31 20:04:45.582000+00:00,10.925,testCafeAdmin,testCafe,cash,admin,SU,2,d17,2021-07-31 20:40:11.852999+00:00
+1190,P5,2021-06-28 14:45:49.638000+00:00,27,testCafeAdmin,testCafe,cash,admin,Oralet,1,d5,2021-06-28 15:59:55.423000+00:00
+1191,P3,2021-09-09 08:36:08.372999+00:00,4.25,testCafeAdmin,testCafe,cash,admin,Çay,1,d10,2021-09-09 09:59:18.924000+00:00
+1192,P6,2021-08-17 17:06:51.351000+00:00,10.2,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d16,2021-08-17 17:27:07.943000+00:00
+1193,P5,2021-07-21 14:09:43.976999+00:00,0,testCafeAdmin,testCafe,cash,admin,Çay,1,d11,2021-07-21 16:30:25.145999+00:00
+1194,P5,2021-06-25 13:40:13.308000+00:00,25,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d14,2021-06-25 15:16:14.565000+00:00
+1195,P1,2021-07-18 16:08:57.822000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-18 17:04:56.793999+00:00
+1196,P6,2021-08-16 19:59:44.430000+00:00,3.1,testCafeAdmin,testCafe,cash,admin,Çay,1,d6,2021-08-16 20:08:07.542999+00:00
+1197,P5,2021-07-28 15:44:32.582999+00:00,13.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s1,2021-07-28 16:32:44.878000+00:00
+1198,P1,2021-08-22 18:43:03.326999+00:00,20.7,testCafeAdmin,testCafe,cash,admin,Limonata,1,d4,2021-08-22 19:20:32.989000+00:00
+1199,P6,2021-08-26 15:11:27.697999+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,b7,2021-08-26 16:10:17.845999+00:00
+1200,P1,2021-08-29 17:34:11.701999+00:00,10.8,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d14,2021-08-29 17:49:51.661999+00:00
+1201,P6,2021-08-23 16:18:28.632999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,b8,2021-08-23 17:11:04.851999+00:00
+1202,P2,2021-08-09 16:06:14.960000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,a0,2021-08-09 16:07:05.744999+00:00
+1203,P7,2021-10-09 14:09:27.490999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,b1,2021-10-09 14:28:33.381000+00:00
+1204,P7,2021-10-11 12:25:46.785000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,b6,2021-10-11 12:51:26.344000+00:00
+1205,P1,2021-07-27 19:00:16.187000+00:00,32.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d14,2021-07-27 20:17:00.430999+00:00
+1206,P5,2021-06-29 10:36:51.401000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d1,2021-06-29 11:59:51.342999+00:00
+1207,P5,2021-07-18 16:48:40.420000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,d14,2021-07-18 17:43:14.834000+00:00
+1208,P1,2021-08-13 18:42:50.644000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d19,2021-08-13 19:20:25.795000+00:00
+1209,P6,2021-08-30 18:35:18.069000+00:00,13.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,b8,2021-08-30 19:10:47.720999+00:00
+1210,P7,2021-10-03 18:20:06.628999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-10-03 19:46:41.482000+00:00
+1211,P5,2021-08-06 19:04:42.239000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-08-06 19:10:54.395999+00:00
+1212,P7,2021-09-19 16:56:12.676000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d16,2021-09-19 17:35:01.187000+00:00
+1213,P6,2021-08-28 18:37:14.200999+00:00,36,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,2,d8,2021-08-28 19:04:29.335999+00:00
+1214,P7,2021-09-25 17:45:31.243999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b5,2021-09-25 18:19:19.138000+00:00
+1215,P1,2021-08-20 17:13:21.803999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d3,2021-08-20 17:48:56.710000+00:00
+1216,P5,2021-06-25 13:20:11.815999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d20,2021-06-25 19:34:47.335000+00:00
+1217,P6,2021-08-17 16:32:31.219000+00:00,38.08,testCafeAdmin,testCafe,card,admin,Limonata,2,d10,2021-08-17 18:17:30.364000+00:00
+1218,P1,2021-08-08 12:24:55.894000+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d10,2021-08-08 12:49:31.911000+00:00
+1219,P1,2021-07-18 16:13:54.256999+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,s2,2021-07-18 16:22:12.161999+00:00
+1220,P5,2021-07-02 16:53:24.855999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b4,2021-07-02 17:45:07.311000+00:00
+1221,P2,2021-08-10 18:01:47.841000+00:00,5.5,testCafeAdmin,testCafe,cash,admin,Çay,1,b8,2021-08-10 19:45:34.826999+00:00
+1222,P1,2021-08-14 17:58:44.990999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d6,2021-08-14 19:00:41.265000+00:00
+1223,P5,2021-07-16 17:59:30.108999+00:00,30.8,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d11,2021-07-16 19:42:29.085000+00:00
+1224,P3,2021-09-12 13:11:36.470000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-09-12 13:54:55.494999+00:00
+1225,P6,2021-07-25 13:02:18.755000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,s7,2021-07-25 13:11:49.677999+00:00
+1226,P1,2021-07-24 15:22:46.065000+00:00,19.8,testCafeAdmin,testCafe,cash,admin,Limonata,1,b5,2021-07-24 15:46:54.713999+00:00
+1227,P1,2021-08-01 17:56:24.973999+00:00,33,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d3,2021-08-01 18:25:48.082999+00:00
+1228,P1,2021-07-29 16:04:05.555999+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-07-29 16:52:33.648999+00:00
+1229,P1,2021-10-01 16:35:42.165000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d5,2021-10-01 17:32:51.363000+00:00
+1230,P1,2021-08-17 19:48:23.267999+00:00,10,testCafeAdmin,testCafe,card,admin,Çay,2,d19,2021-08-17 20:30:11.750000+00:00
+1231,P1,2021-08-18 17:48:59.678999+00:00,15,testCafeAdmin,testCafe,cash,admin,Americano,1,b3,2021-08-18 18:12:50.335999+00:00
+1232,P6,2021-08-07 12:06:11.157999+00:00,24,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,b5,2021-08-07 12:59:26.510999+00:00
+1233,P1,2021-08-26 17:25:01.821000+00:00,4.25,testCafeAdmin,testCafe,cash,admin,Çay,1,d9,2021-08-26 17:44:46.607000+00:00
+1234,P6,2021-08-16 18:10:30.551000+00:00,18,testCafeAdmin,testCafe,cash,admin,Islak kek,1,d4,2021-08-16 18:53:20.984999+00:00
+1235,P6,2021-08-07 18:35:36.276000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b1,2021-08-07 19:04:54.801000+00:00
+1236,P5,2021-08-02 16:24:27.638000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,s7,2021-08-02 16:44:36.963999+00:00
+1237,P6,2021-08-23 13:11:12.470999+00:00,10.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s2,2021-08-23 14:00:42.900000+00:00
+1238,P6,2021-09-05 16:28:51.680999+00:00,43.6425,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d5,2021-09-05 16:55:38.321000+00:00
+1239,P1,2021-08-28 15:14:03.979000+00:00,17.802,testCafeAdmin,testCafe,cash,admin,Limonata,1,d5,2021-08-28 15:27:42.115999+00:00
+1240,P5,2021-07-12 17:38:49.752000+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,d7,2021-07-12 18:01:36.601000+00:00
+1241,P5,2021-07-04 15:53:06.105000+00:00,10,testCafeAdmin,testCafe,cash,admin,Çay,2,b6,2021-07-04 16:20:32.418999+00:00
+1242,P5,2021-07-18 18:53:51.697000+00:00,6.05,testCafeAdmin,testCafe,cash,admin,SU,1,b4,2021-07-18 19:19:05.112999+00:00
+1243,P6,2021-08-09 15:40:03.779999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d11,2021-08-09 15:58:36.602999+00:00
+1244,P1,2021-09-26 17:57:15.630000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b8,2021-09-26 18:13:26.948000+00:00
+1245,P1,2021-08-22 18:17:26.115999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d11,2021-08-22 19:43:12.322000+00:00
+1246,P5,2021-08-03 12:16:36.532999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s4,2021-08-03 12:31:05.132999+00:00
+1247,P5,2021-08-08 15:15:16.846999+00:00,27.12,testCafeAdmin,testCafe,cash,admin,Oralet,1,d1,2021-08-08 16:47:55.326999+00:00
+1248,P1,2021-09-11 12:30:09.377000+00:00,14,testCafeAdmin,testCafe,cash,admin,SODA,2,d12,2021-09-11 14:04:56.812999+00:00
+1249,P5,2021-07-06 15:07:46.326999+00:00,27,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d7,2021-07-06 16:02:54.568000+00:00
+1250,P7,2021-09-26 16:30:54.995000+00:00,16.1,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d2,2021-09-26 17:02:14.993000+00:00
+1251,P5,2021-07-16 16:13:58.801000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,b8,2021-07-16 16:50:26.530999+00:00
+1252,P5,2021-08-09 10:12:29.460000+00:00,20.4,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,b7,2021-08-09 10:41:40.898999+00:00
+1253,P7,2021-09-26 17:37:05.015000+00:00,5.0025,testCafeAdmin,testCafe,cash,admin,SU,1,d17,2021-09-26 18:43:12.375000+00:00
+1254,P1,2021-09-14 14:06:12.429000+00:00,28.014,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,2,b4,2021-09-14 14:32:54.683000+00:00
+1255,P1,2021-08-20 17:23:40.970999+00:00,25.76,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-08-20 18:31:51.260999+00:00
+1256,P5,2021-07-04 14:35:17.121000+00:00,12.75,testCafeAdmin,testCafe,card,admin,Çay,3,d11,2021-07-04 15:05:12.476000+00:00
+1257,P5,2021-07-10 13:53:41.404000+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,s7,2021-07-10 14:01:14.335000+00:00
+1258,P6,2021-08-05 17:36:01.664999+00:00,33,testCafeAdmin,testCafe,cash,admin,Oralet,1,d14,2021-08-05 18:22:59.782999+00:00
+1259,P5,2021-07-30 16:58:39.573999+00:00,36.3,testCafeAdmin,testCafe,cash,admin,Americano,2,d2,2021-07-30 17:57:26.125999+00:00
+1260,P1,2021-09-17 13:34:03.334000+00:00,15,testCafeAdmin,testCafe,cash,admin,Americano,1,d11,2021-09-17 14:06:57.271000+00:00
+1261,P7,2021-09-23 15:41:08.861999+00:00,23.8,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,d8,2021-09-23 15:59:22.057000+00:00
+1262,P6,2021-08-28 18:31:34.532000+00:00,17.25,testCafeAdmin,testCafe,cash,admin,Çay,3,d2,2021-08-28 19:56:54.640000+00:00
+1263,P5,2021-07-05 16:26:33.953999+00:00,24,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,2,s1,2021-07-05 17:25:01.112999+00:00
+1264,P6,2021-08-16 16:50:59.351000+00:00,11,testCafeAdmin,testCafe,card,admin,Çay,2,b8,2021-08-16 17:25:17.220999+00:00
+1265,P6,2021-08-27 18:01:50.688999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,d1,2021-08-27 18:40:31.723000+00:00
+1266,P1,2021-08-18 17:53:59.890000+00:00,25.088,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b4,2021-08-18 19:26:34.286999+00:00
+1267,P6,2021-08-30 14:29:17.765000+00:00,0,testCafeAdmin,testCafe,cash,admin,Çay,2,s10,2021-08-30 20:16:36.947000+00:00
+1268,P1,2021-07-27 16:50:18.723999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d7,2021-07-27 17:27:37.801000+00:00
+1269,P6,2021-08-24 15:06:52.132999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-08-24 15:29:32.273999+00:00
+1270,P1,2021-08-05 18:36:00.691999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d17,2021-08-05 19:10:21.667000+00:00
+1271,P1,2021-10-01 12:07:54.164999+00:00,18,testCafeAdmin,testCafe,card,admin,Limonata,1,s6,2021-10-01 12:30:59.649000+00:00
+1272,P5,2021-07-17 17:03:10.796000+00:00,32.2,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b4,2021-07-17 17:25:23.785000+00:00
+1273,P1,2021-08-05 17:08:22.540999+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d8,2021-08-05 17:25:38.607000+00:00
+1274,P1,2021-07-31 15:05:28.687999+00:00,33,testCafeAdmin,testCafe,card,admin,Muzlu Oralet,1,d1,2021-07-31 15:30:34.168999+00:00
+1275,P1,2021-08-10 16:53:41.299000+00:00,19.8,testCafeAdmin,testCafe,cash,admin,Yeşil Çay,1,d7,2021-08-10 17:29:51.605000+00:00
+1276,P5,2021-07-16 17:13:04.395999+00:00,9,testCafeAdmin,testCafe,card,admin,Çay,3,d6,2021-07-16 17:27:07.851000+00:00
+1277,P6,2021-09-03 14:37:01.819000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d2,2021-09-03 15:04:57.875000+00:00
+1278,P7,2021-09-26 17:48:39.134000+00:00,8.7,testCafeAdmin,testCafe,card,admin,SU,2,d7,2021-09-26 18:16:07.385000+00:00
+1279,P5,2021-06-25 12:25:08.605000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d20,2021-06-25 19:34:47.335000+00:00
+1280,P3,2021-09-08 17:25:08.242000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d1,2021-09-08 18:01:56.502000+00:00
+1281,P6,2021-08-24 17:48:01.628999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b1,2021-08-24 18:45:38.996999+00:00
+1282,P5,2021-07-11 16:24:38.802999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d15,2021-07-11 16:52:12.164999+00:00
+1283,P6,2021-08-07 18:50:31.946000+00:00,17.6,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d5,2021-08-07 19:29:31.351999+00:00
+1284,P5,2021-07-12 17:31:25.237999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d17,2021-07-12 18:01:52.236999+00:00
+1285,P5,2021-08-14 18:31:38.482000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d19,2021-08-14 20:16:31.839999+00:00
+1286,P5,2021-07-16 18:49:21.457000+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d16,2021-07-16 19:20:33.042999+00:00
+1287,P2,2021-07-10 10:52:50.543999+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,s2,2021-07-10 11:22:41.921000+00:00
+1288,P6,2021-08-09 18:50:25.548000+00:00,15,testCafeAdmin,testCafe,card,admin,Çay,3,d2,2021-08-09 19:06:54.765000+00:00
+1289,P7,2021-10-03 15:58:23.026000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-10-03 16:21:19.515000+00:00
+1290,P7,2021-09-29 18:09:53.496000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,b1,2021-09-29 19:09:36.084000+00:00
+1291,P1,2021-08-20 16:36:28.838000+00:00,25.76,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,s3,2021-08-20 17:05:59.269999+00:00
+1292,P5,2021-07-06 12:25:02.917000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d10,2021-07-06 14:10:07.598000+00:00
+1293,P6,2021-08-24 15:04:15.772000+00:00,10,testCafeAdmin,testCafe,card,admin,SU,2,d14,2021-08-24 15:30:06.319000+00:00
+1294,P6,2021-08-30 14:54:42.457000+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d3,2021-08-30 15:17:26.473000+00:00
+1295,P1,2021-07-25 19:25:09.618000+00:00,5.75,testCafeAdmin,testCafe,cash,admin,Çay,1,d2,2021-07-25 19:59:52.746999+00:00
+1296,P1,2021-07-28 17:35:49.023999+00:00,27.5,testCafeAdmin,testCafe,cash,admin,Çay,5,d6,2021-07-28 17:59:15.312000+00:00
+1297,P5,2021-07-26 18:59:57.592000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d14,2021-07-26 20:27:15.033999+00:00
+1298,P6,2021-08-31 19:33:31.385999+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d19,2021-08-31 19:58:42.799000+00:00
+1299,P2,2021-08-15 17:58:02.773000+00:00,26.4,testCafeAdmin,testCafe,cash,admin,Oralet,1,d19,2021-08-15 18:56:35.792999+00:00
+1300,P7,2021-09-15 16:12:07.490000+00:00,30,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b1,2021-09-15 17:25:03.427000+00:00
+1301,P1,2021-08-28 19:14:29.023000+00:00,30.8,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d8,2021-08-28 19:47:20.068000+00:00
+1302,P1,2021-08-22 17:07:20.437000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,b6,2021-08-22 17:42:01.707999+00:00
+1303,P5,2021-08-17 10:52:10.538000+00:00,5,testCafeAdmin,testCafe,card,admin,SU,1,d6,2021-08-17 11:07:28.161000+00:00
+1304,P5,2021-08-04 14:53:10.105000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s1,2021-08-04 15:15:26.753000+00:00
+1305,P5,2021-07-08 19:05:01.506000+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d4,2021-07-08 19:23:01.651999+00:00
+1306,P3,2021-09-03 17:32:02.421999+00:00,18.4,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d5,2021-09-03 17:58:22.121999+00:00
+1307,P5,2021-07-18 14:01:46.342000+00:00,30,testCafeAdmin,testCafe,cash,admin,Islak kek,1,s6,2021-07-18 14:33:31.869999+00:00
+1308,P6,2021-08-01 18:23:24.372999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d6,2021-08-01 20:34:53.653000+00:00
+1309,P1,2021-07-28 16:49:20.474999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d7,2021-07-28 16:59:56.052000+00:00
+1310,P3,2021-09-11 18:14:12.339999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d17,2021-09-11 18:22:32.687000+00:00
+1311,P1,2021-08-12 16:12:02.947000+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,a0,2021-08-12 16:15:23.437000+00:00
+1312,P2,2021-07-11 10:02:23.746999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,s7,2021-07-11 11:42:42.894000+00:00
+1313,P1,2021-08-12 16:02:18.891999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,b2,2021-08-12 18:32:57.249000+00:00
+1314,P1,2021-08-05 12:22:24.780999+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s5,2021-08-05 13:26:33.101000+00:00
+1315,P6,2021-08-30 18:57:14.490999+00:00,5.75,testCafeAdmin,testCafe,cash,admin,SU,1,d15,2021-08-30 19:24:28.454999+00:00
+1316,P1,2021-08-05 19:21:01.446000+00:00,17.25,testCafeAdmin,testCafe,cash,admin,SU,3,d1,2021-08-05 19:25:21.022000+00:00
+1317,P2,2021-08-14 14:07:28.161000+00:00,18,testCafeAdmin,testCafe,cash,admin,Limonata,1,s2,2021-08-14 14:37:44.573999+00:00
+1318,P1,2021-08-22 18:57:36.743999+00:00,28.98,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,b8,2021-08-22 19:27:56.055999+00:00
+1319,P6,2021-08-07 15:25:46.259000+00:00,20,testCafeAdmin,testCafe,cash,admin,Limonata,1,d8,2021-08-07 15:54:27.729000+00:00
+1320,P1,2021-08-31 16:59:12.915999+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d2,2021-08-31 18:08:07.877000+00:00
+1321,P7,2021-10-11 16:55:15.280999+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d5,2021-10-11 17:14:58.541000+00:00
+1322,P1,2021-07-21 19:32:46.140000+00:00,15.84,testCafeAdmin,testCafe,cash,admin,Cappucino,1,d4,2021-07-21 20:21:42.203999+00:00
+1323,P1,2021-07-22 12:30:47.101000+00:00,7,testCafeAdmin,testCafe,cash,admin,SODA,1,d11,2021-07-22 12:48:06.739000+00:00
+1324,P5,2021-08-02 18:57:22.486000+00:00,30,testCafeAdmin,testCafe,card,admin,Oralet,1,d4,2021-08-02 19:24:04.000999+00:00
+1325,P1,2021-09-17 16:26:57.325000+00:00,30,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d19,2021-09-17 16:49:04.250000+00:00
+1326,P6,2021-07-29 13:05:33.992000+00:00,26.565,testCafeAdmin,testCafe,card,admin,SODA,3,s2,2021-07-29 13:28:28.730999+00:00
+1327,P5,2021-07-03 13:18:17.315999+00:00,10.2,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d10,2021-07-03 14:19:52.194999+00:00
+1328,P1,2021-08-14 17:47:46.852999+00:00,28,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d19,2021-08-14 17:52:03.025000+00:00
+1329,P6,2021-08-09 17:21:33.128000+00:00,33.88,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d11,2021-08-09 18:32:00.207000+00:00
+1330,P1,2021-08-13 19:05:37.007999+00:00,16,testCafeAdmin,testCafe,card,admin,Cappucino,1,d15,2021-08-13 19:46:11.036999+00:00
+1331,P6,2021-08-23 18:39:40.051000+00:00,25.76,testCafeAdmin,testCafe,cash,admin,CheeseCake,1,d4,2021-08-23 19:07:11.622999+00:00
+1332,P6,2021-08-09 14:17:25.233000+00:00,30,testCafeAdmin,testCafe,cash,admin,Oralet,1,b5,2021-08-09 14:32:22.142999+00:00
+1333,P5,2021-08-14 16:42:31.503999+00:00,15,testCafeAdmin,testCafe,card,admin,Americano,1,d6,2021-08-14 17:09:16.108999+00:00
+1334,P5,2021-07-16 19:11:26.302999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,d6,2021-07-16 19:46:15.799999+00:00
+1335,P1,2021-07-24 15:07:38.026999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,d1,2021-07-24 15:09:58.908999+00:00
+1336,P1,2021-08-22 18:43:19.404000+00:00,62.1,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,2,d8,2021-08-22 19:20:00.799999+00:00
+1337,P1,2021-08-31 13:28:44.025000+00:00,28,testCafeAdmin,testCafe,card,admin,CheeseCake,1,d3,2021-08-31 13:49:51.322000+00:00
+1338,P5,2021-07-01 16:34:05.549000+00:00,27,testCafeAdmin,testCafe,card,admin,Oralet,1,s7,2021-07-01 17:51:16.055999+00:00
+1339,P1,2021-07-31 12:08:34.831000+00:00,7,testCafeAdmin,testCafe,card,admin,SODA,1,b1,2021-07-31 12:43:45.976999+00:00
+1340,P3,2021-09-09 16:55:01.930999+00:00,14,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d17,2021-09-09 17:42:58.776000+00:00
+1341,P1,2021-08-07 17:19:30.943000+00:00,5.5,testCafeAdmin,testCafe,cash,admin,SU,1,d19,2021-08-07 18:21:11.154000+00:00
+1342,P6,2021-08-10 16:24:16.855999+00:00,5,testCafeAdmin,testCafe,cash,admin,Çay,1,s4,2021-08-10 16:49:58.423000+00:00
+1343,P1,2021-07-27 13:56:49.361999+00:00,5,testCafeAdmin,testCafe,cash,admin,SU,1,s1,2021-07-27 14:34:35.203000+00:00
+1344,P1,2021-08-08 12:17:52.197000+00:00,5,testCafeAdmin,testCafe,card,admin,Çay,1,d3,2021-08-08 12:22:49.431999+00:00
+1345,P1,2021-09-04 18:59:35.039000+00:00,14,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,d19,2021-09-04 19:06:11.321000+00:00
+1346,P7,2021-09-18 14:35:11.380000+00:00,5.95,testCafeAdmin,testCafe,card,admin,SODA,1,d19,2021-09-18 15:06:51.354000+00:00
+1347,P1,2021-09-02 08:50:06.372999+00:00,12,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d12,2021-09-02 09:09:49.637000+00:00
+1348,P1,2021-07-15 16:19:29.049999+00:00,14,testCafeAdmin,testCafe,card,admin,SODA,2,b4,2021-07-15 16:32:09.719000+00:00
+1349,P7,2021-09-19 18:30:16.414000+00:00,13.5746184,testCafeAdmin,testCafe,card,admin,Türk Kahvesi,1,d11,2021-09-19 18:59:40.079000+00:00
+1350,P2,2021-07-11 10:17:58.586999+00:00,30,testCafeAdmin,testCafe,cash,admin,Muzlu Oralet,1,d12,2021-07-11 10:52:32.520999+00:00
+1351,P5,2021-07-14 15:16:01.644000+00:00,12,testCafeAdmin,testCafe,cash,admin,Türk Kahvesi,1,s7,2021-07-14 15:29:54.055000+00:00

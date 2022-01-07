@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    crossorigin="anonymous" />
+
+  <title>Document</title>
+</head>
+
+
+<body>
+  <style>
+    html,
+    body {
+      margin: auto;
+      width: 500px;
+
+
+    }
+
+    body {
+      background-image: radial-gradient(#FFF5EE, #708090);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+
+    div {
+      border-radius: 25px;
+      border-style: solid;
+      padding: 15px;
+      width: 200px;
+      height: 130px;
+    }
+
+    .center {
+      margin: 0;
+      position: absolute;
+      top: 320px;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      width: 140px;
+      height: 75px;
+      border-style: none;
+    }
+  </style>
+
+
+  <br>
+
+  <form method="GET">
+    <h3 align="center">Hoşgeldiniz</h3>
+    <h4 align="center">{{ .Username}}</h4>
+    <br>
+  </form>
+
+
+  <form enctype="multipart/form-data" action="http://localhost:9000/welcome" method="post">
+
+
+
+    <div class="container" align="center" frame="true">
+      <br>
+      <input type="file" name="myFile" value="Dosya Seç" class="btn btn-secondary"  required accept=".csv"/>
+      <input type="submit" value="Yükle" class="btn btn-dark" />
+
+      <h5 align="center">{{ .Status}}</h5>
+    </div>
+
+  </form>
+    {{ if .Status  }}
+
+    <form enctype="multipart/form-data" action="http://3.145.16.200:3838/" method="post">
+
+    <div class="center">
+      <input type="submit" value="Sonuca Git" class="btn btn-dark"/>
+    </div>
+
+  </form>
+
+    {{ end }}
+</body>
+
+</html>
