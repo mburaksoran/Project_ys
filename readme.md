@@ -22,7 +22,7 @@ Hi! This project created for combining an analysis application with API.
 <img src="https://cdn.discordapp.com/attachments/519918508998656028/929023335118041138/unknown.png" alt="Logo" width="50%">
 
 You can test login page with username : "testCafe" and password : "1234".
-When you submit the username and password, Golang connect to MongoDB and search if is there any record with this username. If there is a match, Golang API will hash the submitted password and compare with password that came from MongoDB. 
+When you submit the username and password, Golang connect to MongoDB and search if is there any record with this username. If there is a match, Golang API will hash the submitted password and compare with password that came from MongoDB. You can try with test file which in temp file and file name is "client data.csv"
 
 ### [Welcome Page](http://18.206.88.12:9000/welcome)
 
