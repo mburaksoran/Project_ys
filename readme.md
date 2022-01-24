@@ -13,7 +13,7 @@ Hi! This project created for combining an analysis application with API.
 * [R-Shiny](https://shiny.rstudio.com/)
 * [Bootstrap](https://getbootstrap.com)
 * [HTML](https://html.com/)
-
+<img src="https://cdn.discordapp.com/attachments/235414073024446464/934965084218859550/Untitled_Diagram.drawio_4.png" alt="Logo" width="50%">
 
 ## Usage
 
